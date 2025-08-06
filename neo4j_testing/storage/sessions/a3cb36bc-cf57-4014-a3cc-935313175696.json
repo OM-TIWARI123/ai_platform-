@@ -1,0 +1,29 @@
+{
+  "session_id": "a3cb36bc-cf57-4014-a3cc-935313175696",
+  "role": "Product Manager",
+  "resume_path": "uploads\\a3cb36bc-cf57-4014-a3cc-935313175696_Om Resume.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume mentions you constructed a reporting tool for DTU with a 94% efficiency increase. Can you walk me through the process of identifying the need for this tool, designing its functionality, and measuring its impact?  What challenges did you face, and how did you overcome them?"
+    },
+    {
+      "id": 2,
+      "text": "You analyzed 52 pitches in the Shark Tank India project and noted a 55% conversion rate for women-led businesses.  How did this analysis inform your recommendations for improving inclusivity within the investment portfolio?  What product management principles did you apply?"
+    },
+    {
+      "id": 3,
+      "text": "Your Pizza Sales Metrics project involved analyzing 50,000 records using SQL and Power BI.  Describe a specific decision you made based on your analysis, detailing the data you used, the insights you gained, and the resulting impact on sales or strategy."
+    },
+    {
+      "id": 4,
+      "text": "Considering your experience building web applications using ReactJS, NodeJS, and other technologies, how would you approach the design and development of a new product feature, from ideation to launch?  What processes and methodologies would you employ?"
+    },
+    {
+      "id": 5,
+      "text": "You've demonstrated leadership in various contexts, from leading your basketball team to mentoring students.  How would you apply your leadership style to a product team, particularly when faced with conflicting priorities or challenging deadlines?"
+    }
+  ],
+  "vector_db_collection": "resume_1753525648",
+  "created_at": 1753525657.602771
+}

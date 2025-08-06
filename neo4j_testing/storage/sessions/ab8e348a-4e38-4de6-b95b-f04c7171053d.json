@@ -1,0 +1,29 @@
+{
+  "session_id": "ab8e348a-4e38-4de6-b95b-f04c7171053d",
+  "role": "Product Manager",
+  "resume_path": "uploads\\ab8e348a-4e38-4de6-b95b-f04c7171053d_Om Resume.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights your experience building a reporting tool that increased efficiency by 94% in tracking website usage statistics at DTU.  Can you walk me through the product management aspects of that project?  What challenges did you face, and how did you prioritize features and address trade-offs?"
+    },
+    {
+      "id": 2,
+      "text": "You analyzed 52 pitches from Shark Tank India, identifying a 55% conversion rate for pitches from women.  How did you use this data to inform potential product strategies or investment decisions?  Could you describe a specific example of how you translated your analysis into actionable recommendations?"
+    },
+    {
+      "id": 3,
+      "text": "Your Pizza Sales Metrics project involved analyzing 50,000 records and creating a Power BI dashboard with 25+ KPIs. Describe your process for defining the key metrics and visualizing the data in a way that would be useful for stakeholders (e.g., restaurant owners). How did you ensure the accuracy and reliability of your data?"
+    },
+    {
+      "id": 4,
+      "text": "You've demonstrated proficiency in several programming languages and tools (Python, SQL, Power BI, ReactJS, NodeJS).  Imagine you're leading a team developing a new product. How would you leverage your technical skills to guide the team, ensure the technical feasibility of product features, and communicate effectively with engineers?"
+    },
+    {
+      "id": 5,
+      "text": "Your leadership experience includes leading your basketball team to first place and mentoring students. How do you translate these leadership skills into a product management context?  Give an example of a time you had to motivate a team, resolve conflicts, or influence stakeholders to achieve a shared goal."
+    }
+  ],
+  "vector_db_collection": "resume_1753535121",
+  "created_at": 1753535132.0012882
+}

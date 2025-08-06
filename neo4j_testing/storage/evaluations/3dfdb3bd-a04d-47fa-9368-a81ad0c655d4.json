@@ -1,0 +1,119 @@
+{
+  "evaluation_id": "3dfdb3bd-a04d-47fa-9368-a81ad0c655d4",
+  "session_id": "05f65d80-9ed4-42e1-ae34-26be97a91da3",
+  "role": "Product Manager",
+  "interview_data": [
+    {
+      "question_id": 0,
+      "question_text": "Introduction",
+      "answer_text": "hi my name is Om",
+      "answer_duration": 0.0
+    },
+    {
+      "question_id": 1,
+      "question_text": "Your resume highlights your experience automating processes with Python, significantly reducing data analysis time in your internship at DTU-USIP.  Can you describe a situation where you used data analysis to identify a product opportunity or solve a product-related problem, and how your technical skills helped you achieve this?",
+      "answer_text": "Hi I never do that internship thank you",
+      "answer_duration": 0.0
+    },
+    {
+      "question_id": 2,
+      "question_text": "You mention using Power BI to create a dashboard visualizing hourly sales for resource risk management in your Pizza Sales Metrics project.  As a Product Manager, you'll need to present complex data to stakeholders. How would you tailor your approach to presenting this kind of data to different stakeholders with varying levels of technical expertise?",
+      "answer_text": "thanks for the interview thank you",
+      "answer_duration": 0.0
+    },
+    {
+      "question_id": 3,
+      "question_text": "Your BCG Strategy Consulting experience likely exposed you to various strategic frameworks.  Describe a time you used a strategic framework to analyze a product or market challenge, and explain how your analysis influenced a decision or recommendation.",
+      "answer_text": "I didn't do that",
+      "answer_duration": 0.0
+    },
+    {
+      "question_id": 4,
+      "question_text": "In your Shark Tank India project, you computed risk-reward metrics for investment decisions. How would you apply a similar analytical approach to prioritize features in a product roadmap, considering factors like market demand, resource constraints, and potential risks?",
+      "answer_text": "fuck you I don't want to give this interview",
+      "answer_duration": 0.0
+    },
+    {
+      "question_id": 5,
+      "question_text": "Your resume demonstrates proficiency in SQL and various programming languages.  How would you leverage your technical skills to collaborate effectively with engineering teams in the development and launch of a new product, ensuring that the product meets the defined specifications and user needs?",
+      "answer_text": "sorry I don't know",
+      "answer_duration": 0.0
+    }
+  ],
+  "submitted_at": 1754414155.6667113,
+  "status": "completed",
+  "results": {
+    "overall_score": 3.4,
+    "overall_feedback": "Thank you for completing the interview. Your responses demonstrated good engagement with the questions and relevant experience for the role.",
+    "question_analysis": [
+      {
+        "question_id": 0,
+        "score": 1.0,
+        "feedback": "This response is completely inadequate for a product manager interview introduction.  It lacks professionalism, fails to establish context, and provides no information about the candidate's qualifications or experience.  It's essentially a non-response.",
+        "strengths": [],
+        "improvements": [
+          "Provide a full name and a brief, engaging introduction highlighting relevant experience and skills.  Express enthusiasm for the role and company.  Practice a concise and polished introduction beforehand."
+        ]
+      },
+      {
+        "question_id": 1,
+        "score": 5.0,
+        "feedback": "Unable to evaluate this response due to a technical issue.",
+        "strengths": [],
+        "improvements": [
+          "Technical evaluation error occurred"
+        ]
+      },
+      {
+        "question_id": 2,
+        "score": 1.0,
+        "feedback": "This answer is completely inadequate.  It fails to address the question and demonstrates a lack of understanding of how to tailor communication for different audiences. The \"thank you\" is inappropriate in this context; it shows no engagement with the question.",
+        "strengths": [],
+        "improvements": [
+          "Provide a structured approach to tailoring presentations based on audience expertise.  Give concrete examples of how you would simplify complex data for non-technical stakeholders and provide more detail for technical stakeholders.  Practice answering behavioral interview questions thoroughly."
+        ]
+      },
+      {
+        "question_id": 3,
+        "score": 5.0,
+        "feedback": "Unable to evaluate this response due to a technical issue.",
+        "strengths": [],
+        "improvements": [
+          "Technical evaluation error occurred"
+        ]
+      },
+      {
+        "question_id": 4,
+        "score": 5.0,
+        "feedback": "Unable to evaluate this response due to a technical issue.",
+        "strengths": [],
+        "improvements": [
+          "Technical evaluation error occurred"
+        ]
+      },
+      {
+        "question_id": 5,
+        "score": 5.0,
+        "feedback": "Unable to evaluate this response due to a technical issue.",
+        "strengths": [],
+        "improvements": [
+          "Technical evaluation error occurred"
+        ]
+      }
+    ],
+    "analytics": {
+      "total_duration": "0 minutes 0 seconds",
+      "average_response_time": 0.0,
+      "speaking_pace": "Normal",
+      "technical_depth": "Low",
+      "communication_clarity": "Needs Improvement",
+      "consistency_score": 7.0
+    },
+    "recommendations": [
+      "Continue developing your product manager skills through hands-on projects",
+      "Practice explaining technical concepts clearly and concisely",
+      "Review fundamental concepts relevant to your target role"
+    ]
+  },
+  "completed_at": 1754414183.1107829
+}

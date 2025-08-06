@@ -1,0 +1,29 @@
+{
+  "session_id": "53e408a2-4899-414c-bc39-dcea1157735e",
+  "role": "Product Manager",
+  "resume_path": "uploads\\53e408a2-4899-414c-bc39-dcea1157735e_Om Resume.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights your experience building a reporting tool for DTU that increased efficiency by 94%. Can you walk me through the product development process for this tool, focusing on your decisions regarding prioritization, trade-offs, and stakeholder management?"
+    },
+    {
+      "id": 2,
+      "text": "You analyzed 52 pitches from Shark Tank India, identifying a 55% conversion rate for pitches from women.  How did you use this data to inform product recommendations or strategies for improving investment decisions, and what metrics did you use to measure the impact of your recommendations?"
+    },
+    {
+      "id": 3,
+      "text": "Your Pizza Sales Metrics project involved analyzing 50,000 records and creating a Power BI dashboard with 25+ KPIs.  Describe a specific challenge you faced during this project, how you approached solving it, and what you learned from the experience regarding data analysis and visualization for product development."
+    },
+    {
+      "id": 4,
+      "text": "Given your experience with various programming languages (Python, JavaScript, SQL) and tools (Power BI, MongoDB), how would you approach building a Minimum Viable Product (MVP) for a new product, considering resource constraints and time-to-market?"
+    },
+    {
+      "id": 5,
+      "text": "Your leadership roles in basketball and mentoring demonstrate strong teamwork and communication skills.  Describe a situation where you had to influence a team to achieve a shared goal, and how your understanding of different personalities and communication styles contributed to the success of your team."
+    }
+  ],
+  "vector_db_collection": "resume_1753525806",
+  "created_at": 1753525817.8512528
+}

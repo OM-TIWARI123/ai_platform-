@@ -1,0 +1,29 @@
+{
+  "session_id": "4a88b832-0e8b-4630-ad05-576e447393b6",
+  "role": "Product Manager",
+  "resume_path": "uploads\\4a88b832-0e8b-4630-ad05-576e447393b6_Om Amex-1 (2).pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights automating 10+ processes with Python during your internship, resulting in a 74% reduction in data analysis time.  Can you describe a specific process you automated, the challenges you faced, and how your solution impacted the overall product or business strategy?"
+    },
+    {
+      "id": 2,
+      "text": "You developed a reporting tool with 94% efficiency, enhancing risk monitoring.  As a Product Manager, you'd need to prioritize features. How would you balance the need for a highly efficient reporting tool with other potentially valuable product features, considering resource constraints and stakeholder needs?"
+    },
+    {
+      "id": 3,
+      "text": "Your Shark Tank India project involved analyzing 52 pitches and computing risk-reward metrics.  Describe your approach to evaluating the risk and potential return of a new product idea, considering factors like market research, competitive analysis, and financial projections."
+    },
+    {
+      "id": 4,
+      "text": "You utilized Power BI and MySQL to analyze pizza sales metrics and create a dashboard with 25+ KPIs.  Imagine you're launching a new product. How would you define the key performance indicators (KPIs) to track its success, and what data sources would you leverage to monitor these KPIs?"
+    },
+    {
+      "id": 5,
+      "text": "Your experience includes BCG Strategy Consulting and mentoring students.  How would you apply your consulting and mentorship skills to lead a cross-functional product team, effectively communicating product vision and strategy to stakeholders with diverse backgrounds and perspectives?"
+    }
+  ],
+  "vector_db_collection": "resume_1753539559",
+  "created_at": 1753539568.4099452
+}

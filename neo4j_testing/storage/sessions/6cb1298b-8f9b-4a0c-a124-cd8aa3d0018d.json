@@ -1,0 +1,29 @@
+{
+  "session_id": "6cb1298b-8f9b-4a0c-a124-cd8aa3d0018d",
+  "role": "Product Manager",
+  "resume_path": "uploads\\6cb1298b-8f9b-4a0c-a124-cd8aa3d0018d_Om Amex-1.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights your experience automating data analysis processes with Python, reducing analysis time by 74% in your internship at DTU-USIP.  Can you describe a situation where you had to make a product decision based on incomplete or uncertain data, and how you navigated that ambiguity?"
+    },
+    {
+      "id": 2,
+      "text": "You developed a Power BI dashboard visualizing hourly sales for resource risk management in your Pizza Sales Metrics project.  How would you apply this experience to building a product dashboard that provides key performance indicators (KPIs) for a new product launch?"
+    },
+    {
+      "id": 3,
+      "text": "Your work on the Shark Tank India project involved analyzing risk-reward metrics for investment decisions. How would you translate your understanding of risk assessment and financial modeling into defining product strategy and prioritizing features for a new product?"
+    },
+    {
+      "id": 4,
+      "text": "Given your experience with SQL, Python, and Power BI, how would you approach building a data pipeline to collect, process, and analyze user data to inform product development decisions for a new SaaS product?"
+    },
+    {
+      "id": 5,
+      "text": "You mention stakeholder communication as a key skill.  Describe a time you had to persuade a skeptical stakeholder to adopt a new product feature or strategy. What techniques did you use, and what was the outcome?"
+    }
+  ],
+  "vector_db_collection": "resume_1754128282",
+  "created_at": 1754128294.5232923
+}

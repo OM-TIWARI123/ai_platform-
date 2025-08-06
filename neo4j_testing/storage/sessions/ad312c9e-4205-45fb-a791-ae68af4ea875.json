@@ -1,0 +1,29 @@
+{
+  "session_id": "ad312c9e-4205-45fb-a791-ae68af4ea875",
+  "role": "SDE",
+  "resume_path": "uploads\\ad312c9e-4205-45fb-a791-ae68af4ea875_om_tiwar_tech.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume mentions a 25% increase in user engagement after developing a responsive UI with Next.js, Tailwind CSS, and ShadCN. Can you walk me through the specific design choices and implementation details that led to this improvement, focusing on the challenges you faced and how you overcame them?"
+    },
+    {
+      "id": 2,
+      "text": "You integrated AWS S3 for storing test cases in one project and used it again in your Opal-Ai project.  Describe your approach to ensuring scalability and security in both instances, highlighting any differences in your implementation strategies."
+    },
+    {
+      "id": 3,
+      "text": "In your Recruizo internship, you mention architecting a high-performance coding contest platform.  Can you elaborate on the specific performance bottlenecks you identified and the techniques you employed (e.g., database optimization, caching strategies, code optimization) to achieve a 40% increase in system efficiency and a 30% reduction in response time?"
+    },
+    {
+      "id": 4,
+      "text": "Your Opal-Ai project involved building a full-stack video recording and streaming platform using Next.js, Electron, and Express.js. Describe the architectural design of this platform, including how you handled real-time screen/webcam capture and the challenges of integrating AI-powered features like video transcription and summarization."
+    },
+    {
+      "id": 5,
+      "text": "You've worked with several databases (MySQL, PostgreSQL, MongoDB).  Considering the Recruizo project's requirements for a high-performance coding contest platform, why did you choose MongoDB?  Discuss the trade-offs you considered compared to other database options, and how you optimized your database schema and queries for this application."
+    }
+  ],
+  "vector_db_collection": "resume_1753507675",
+  "created_at": 1753507687.5847297
+}

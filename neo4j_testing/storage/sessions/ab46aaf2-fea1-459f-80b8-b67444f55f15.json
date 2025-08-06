@@ -1,0 +1,29 @@
+{
+  "session_id": "ab46aaf2-fea1-459f-80b8-b67444f55f15",
+  "role": "Product Manager",
+  "resume_path": "uploads\\ab46aaf2-fea1-459f-80b8-b67444f55f15_Om Amex-1 (1).pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights automating 10+ processes with Python, resulting in a 74% reduction in data analysis time during your internship at DTU-USIP.  Can you describe a specific process you automated, the challenges you faced, and how your solution improved the overall product or service?"
+    },
+    {
+      "id": 2,
+      "text": "You mention using Power BI to create a dashboard visualizing hourly sales for resource risk management in your Pizza Sales Metrics project.  As a product manager, how would you leverage data visualization to inform product strategy and decision-making, and what key metrics would you prioritize?"
+    },
+    {
+      "id": 3,
+      "text": "In your Shark Tank India project, you analyzed risk-reward metrics for 52 pitches.  Describe your approach to identifying and quantifying risk, and how you translated those findings into actionable insights for investment decisions. How does this experience translate to prioritizing features and managing risks in a product development context?"
+    },
+    {
+      "id": 4,
+      "text": "Your resume showcases experience with various programming languages (C++, Python, JavaScript) and databases (SQL, MySQL).  How would you utilize these technical skills to collaborate effectively with engineering teams and ensure the successful development and launch of a new product?"
+    },
+    {
+      "id": 5,
+      "text": "Your BCG Strategy Consulting experience and your work on projects like analyzing pizza sales metrics and Shark Tank pitches demonstrate strong analytical skills.  Describe a situation where you had to analyze a complex problem, identify key drivers, and present your findings to stakeholders to influence a strategic decision.  How did you tailor your communication to resonate with different stakeholder groups?"
+    }
+  ],
+  "vector_db_collection": "resume_1754303788",
+  "created_at": 1754303935.7804081
+}

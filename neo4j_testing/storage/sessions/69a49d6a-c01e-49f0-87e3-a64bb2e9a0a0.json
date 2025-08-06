@@ -1,0 +1,29 @@
+{
+  "session_id": "69a49d6a-c01e-49f0-87e3-a64bb2e9a0a0",
+  "role": "Product Manager",
+  "resume_path": "uploads\\69a49d6a-c01e-49f0-87e3-a64bb2e9a0a0_Om Resume.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights your experience building a reporting tool for DTU that improved efficiency by 94%. Can you describe the product management aspects of this project, including how you defined the problem, prioritized features, and measured success beyond the efficiency metric?"
+    },
+    {
+      "id": 2,
+      "text": "You analyzed 52 pitches from Shark Tank India, focusing on women entrepreneurs.  How did you apply product management principles to this analysis, such as identifying key performance indicators (KPIs) and drawing actionable insights to influence investment decisions?"
+    },
+    {
+      "id": 3,
+      "text": "Your Pizza Sales Metrics project involved analyzing 50,000 records and creating a Power BI dashboard.  Walk me through your process of translating raw data into actionable insights and how you prioritized which KPIs to visualize for stakeholders."
+    },
+    {
+      "id": 4,
+      "text": "Considering your experience with both web development (ReactJS, NodeJS, etc.) and data analysis (SQL, Power BI), how would you approach the task of defining the metrics for a new web application and then building a system to track and report on those metrics?"
+    },
+    {
+      "id": 5,
+      "text": "Your background demonstrates strong technical skills and leadership (basketball team captain, mentoring).  Describe a situation where you had to balance technical feasibility with business needs and stakeholder expectations to deliver a successful product."
+    }
+  ],
+  "vector_db_collection": "resume_1753525283",
+  "created_at": 1753525292.781486
+}

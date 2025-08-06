@@ -1,0 +1,29 @@
+{
+  "session_id": "8b64e673-9944-466e-b37a-3bb18dc75b26",
+  "role": "Product Manager",
+  "resume_path": "uploads\\8b64e673-9944-466e-b37a-3bb18dc75b26_Om Amex-1 (2).pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights automating 10+ processes with Python, resulting in a 74% reduction in data analysis time during your internship at DTU-USIP.  Can you describe a specific process you automated, the challenges you faced, and how your solution impacted decision-making within the organization?  Relate this to how you would approach process improvement as a Product Manager."
+    },
+    {
+      "id": 2,
+      "text": "You used Power BI and MySQL to analyze 50,000 pizza sales records, identifying key revenue drivers and operational risks.  Describe your approach to data analysis in this project, focusing on how you translated raw data into actionable insights that informed strategic decisions. How would you apply a similar analytical approach to product development and market analysis?"
+    },
+    {
+      "id": 3,
+      "text": "Your Shark Tank India project involved calculating risk-reward metrics for 52 pitches.  Describe your methodology for assessing risk and how you presented your findings to aid investment decisions.  How would you translate this experience into prioritizing features and managing risk within a product roadmap?"
+    },
+    {
+      "id": 4,
+      "text": "You mention experience with stakeholder communication and presenting actionable insights to leadership.  Describe a situation where you had to navigate conflicting stakeholder priorities or persuade stakeholders to adopt a particular course of action. How did you approach this situation, and what was the outcome?"
+    },
+    {
+      "id": 5,
+      "text": "Your resume shows diverse skills in programming (Python, SQL, JavaScript), data analysis, and market research. Considering your experience with BCG Strategy Consulting, how would you leverage these skills to define a product vision, prioritize features, and measure the success of a new product launch?"
+    }
+  ],
+  "vector_db_collection": "resume_1753540030",
+  "created_at": 1753540042.4168954
+}

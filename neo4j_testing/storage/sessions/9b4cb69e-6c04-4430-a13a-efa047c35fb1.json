@@ -1,0 +1,29 @@
+{
+  "session_id": "9b4cb69e-6c04-4430-a13a-efa047c35fb1",
+  "role": "Product Manager",
+  "resume_path": "uploads\\9b4cb69e-6c04-4430-a13a-efa047c35fb1_Om Amex-1 (2).pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights automating 10+ processes with Python during your internship, resulting in a 74% reduction in data analysis time.  Can you describe a specific process you automated, the challenges you faced, and how your solution contributed to improved decision-making within the context of a product development lifecycle?"
+    },
+    {
+      "id": 2,
+      "text": "You mention using Power BI to create a dashboard visualizing hourly sales for resource risk management in your Pizza Sales Metrics project. How would you apply this data visualization and risk analysis approach to inform product prioritization and resource allocation as a Product Manager?"
+    },
+    {
+      "id": 3,
+      "text": "Your experience analyzing 52 Shark Tank India pitches and calculating risk-reward metrics demonstrates your analytical abilities.  Describe a scenario where you would utilize similar analytical techniques to assess the market viability of a new product idea and inform your go-to-market strategy."
+    },
+    {
+      "id": 4,
+      "text": "Your BCG Strategy Consulting experience and your various projects demonstrate exposure to stakeholder management.  Describe a situation where you had to manage conflicting priorities or expectations from different stakeholders, and how you navigated that to achieve a successful outcome. How would you apply this to product development?"
+    },
+    {
+      "id": 5,
+      "text": "You've demonstrated proficiency in several programming languages (C++, Python, JavaScript) and databases (SQL, MySQL).  Imagine you're tasked with developing a new feature for an existing product.  How would you leverage your technical skills to work effectively with engineering teams and ensure the successful implementation of that feature while keeping in mind product vision and market needs?"
+    }
+  ],
+  "vector_db_collection": "resume_1753595686",
+  "created_at": 1753595698.9533236
+}

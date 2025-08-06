@@ -1,0 +1,29 @@
+{
+  "session_id": "93bc6dc3-c234-42b7-81ea-6359281c3899",
+  "role": "Product Manager",
+  "resume_path": "uploads\\93bc6dc3-c234-42b7-81ea-6359281c3899_Om Resume.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights your experience building a reporting tool for DTU that improved efficiency by 94%. Can you describe the product development process you followed, including how you identified user needs, prioritized features, and measured success?"
+    },
+    {
+      "id": 2,
+      "text": "You analyzed 52 pitches from Shark Tank India, focusing on inclusivity.  As a product manager, how would you apply this analytical approach to ensure diverse representation within a product's target market and user base?"
+    },
+    {
+      "id": 3,
+      "text": "Your Pizza Sales Metrics project involved creating a Power BI dashboard with 25+ KPIs.  Describe a scenario where you had to make a difficult prioritization decision regarding which KPIs to include or emphasize on a dashboard, and how you justified that choice."
+    },
+    {
+      "id": 4,
+      "text": "Your experience with both web development (ReactJS, NodeJS, etc.) and data analysis (SQL, Power BI) is impressive.  Describe a situation where you used your technical skills to inform a product decision or improve a product's functionality."
+    },
+    {
+      "id": 5,
+      "text": "You mention mentoring students through the Desh-ke-Mentor Program.  How would your experience in mentoring translate into effectively leading and motivating a product team to achieve ambitious goals?"
+    }
+  ],
+  "vector_db_collection": "resume_1753531797",
+  "created_at": 1753531807.2728126
+}

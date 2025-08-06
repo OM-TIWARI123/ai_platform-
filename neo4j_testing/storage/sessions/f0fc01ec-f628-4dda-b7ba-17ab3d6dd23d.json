@@ -1,0 +1,29 @@
+{
+  "session_id": "f0fc01ec-f628-4dda-b7ba-17ab3d6dd23d",
+  "role": "Product Manager",
+  "resume_path": "uploads\\f0fc01ec-f628-4dda-b7ba-17ab3d6dd23d_Om Amex-1 (1).pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights automating 10+ processes with Python, resulting in a 74% reduction in data analysis time during your internship.  Can you describe a specific process you automated, the challenges you faced, and how your solution contributed to the overall product or business goals?"
+    },
+    {
+      "id": 2,
+      "text": "You mention using Power BI to create a dashboard visualizing hourly sales for resource risk management in your Pizza Sales Metrics project.  How did you determine the key performance indicators (KPIs) to include, and how did this dashboard inform decision-making and resource allocation?"
+    },
+    {
+      "id": 3,
+      "text": "In your Shark Tank India project, you analyzed risk-reward metrics for 52 pitches.  Describe your methodology for assessing risk and reward, and how you presented your findings to influence investment decisions.  How did your understanding of financial markets contribute to this analysis?"
+    },
+    {
+      "id": 4,
+      "text": "Your BCG Strategy Consulting experience likely exposed you to various stakeholder management techniques.  Can you describe a situation where you had to navigate conflicting stakeholder priorities and how you successfully reached a consensus that aligned with product goals?"
+    },
+    {
+      "id": 5,
+      "text": "You've demonstrated proficiency in several programming languages (C++, Python, JavaScript) and databases (SQL, MySQL).  If you were tasked with building a new product feature requiring data analysis and user interface development, which technologies would you choose and why, considering factors like scalability, maintainability, and development time?"
+    }
+  ],
+  "vector_db_collection": "resume_1753607929",
+  "created_at": 1753607940.2318826
+}

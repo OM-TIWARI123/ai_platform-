@@ -1,0 +1,29 @@
+{
+  "session_id": "50e0954a-5919-41ac-b3ec-71ab392304e2",
+  "role": "Product Manager",
+  "resume_path": "uploads\\50e0954a-5919-41ac-b3ec-71ab392304e2_Om Amex-1 (2).pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights automating 10+ processes with Python, resulting in a 74% reduction in data analysis time during your internship at DTU-USIP.  Can you describe a specific process you automated, the challenges you faced, and how your solution improved the overall product or service?"
+    },
+    {
+      "id": 2,
+      "text": "You designed a Power BI dashboard with 25+ KPIs visualizing hourly sales for your Pizza Sales Metrics project.  As a Product Manager, how would you leverage data visualization and key performance indicators to inform product strategy and decision-making for a new product launch?"
+    },
+    {
+      "id": 3,
+      "text": "Your experience with the Shark Tank India project involved computing risk-reward metrics for 52 pitches.  How would you apply your understanding of risk analysis and financial markets to prioritize features and allocate resources within a product development roadmap?"
+    },
+    {
+      "id": 4,
+      "text": "You mention using SQL extensively in several projects.  Describe a situation where you had to work with a large dataset (similar to the 100 GB data warehouse you managed) and how you ensured data accuracy, efficiency, and scalability in your analysis for informing product decisions."
+    },
+    {
+      "id": 5,
+      "text": "Your BCG Strategy Consulting experience and your various projects demonstrate strong analytical and stakeholder communication skills.  Describe a time you had to present complex data and recommendations to stakeholders with differing priorities and perspectives, and how you ensured alignment and buy-in for a product-related decision."
+    }
+  ],
+  "vector_db_collection": "resume_1753607215",
+  "created_at": 1753607286.5054667
+}

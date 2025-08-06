@@ -1,0 +1,119 @@
+{
+  "evaluation_id": "3a545c7c-5bc2-4cb7-8df2-34ff24dd84d1",
+  "session_id": "10cc8e0e-3cd0-4dbd-8f56-c28223c02221",
+  "role": "Product Manager",
+  "interview_data": [
+    {
+      "question_id": 0,
+      "question_text": "Introduction",
+      "answer_text": "This is a simulated transcription. Replace this with actual Whisper integration.",
+      "answer_duration": 0.847
+    },
+    {
+      "question_id": 1,
+      "question_text": "Your resume highlights your experience automating data analysis processes using Python, resulting in a 74% reduction in analysis time.  Can you describe a specific scenario where you used this skill to inform a product decision, perhaps identifying a user need or market opportunity?",
+      "answer_text": "This is a simulated transcription. Replace this with actual Whisper integration.",
+      "answer_duration": 0.731
+    },
+    {
+      "question_id": 2,
+      "question_text": "You mention using Power BI to create a dashboard visualizing hourly sales and identifying top revenue drivers. As a Product Manager, how would you leverage this data-driven approach to prioritize features and measure the success of a product launch?",
+      "answer_text": "This is a simulated transcription. Replace this with actual Whisper integration.",
+      "answer_duration": 1.075
+    },
+    {
+      "question_id": 3,
+      "question_text": "Your BCG Strategy Consulting experience and your projects analyzing Shark Tank India pitches demonstrate a strong understanding of risk analysis and financial markets. How would you apply this knowledge to assess the market viability of a new product and mitigate potential risks?",
+      "answer_text": "This is a simulated transcription. Replace this with actual Whisper integration.",
+      "answer_duration": 0.799
+    },
+    {
+      "question_id": 4,
+      "question_text": "Your SQL skills were used extensively in projects like analyzing pizza sales metrics and Shark Tank data.  Describe a situation where you had to overcome a challenge related to data acquisition, cleaning, or analysis to derive actionable insights for a decision.",
+      "answer_text": "This is a simulated transcription. Replace this with actual Whisper integration.",
+      "answer_duration": 0.822
+    },
+    {
+      "question_id": 5,
+      "question_text": "You mentored students through the Desh-ke-Mentor Program.  How does your experience in mentorship translate to leading and motivating a product team to achieve shared goals and deliver high-quality products?",
+      "answer_text": "This is a simulated transcription. Replace this with actual Whisper integration.",
+      "answer_duration": 1.039
+    }
+  ],
+  "submitted_at": 1754383420.2259426,
+  "status": "completed",
+  "results": {
+    "overall_score": 4.7,
+    "overall_feedback": "Thank you for completing the interview. Your responses demonstrated good engagement with the questions and relevant experience for the role.",
+    "question_analysis": [
+      {
+        "question_id": 0,
+        "score": 5.0,
+        "feedback": "Unable to evaluate this response due to a technical issue.",
+        "strengths": [],
+        "improvements": [
+          "Technical evaluation error occurred"
+        ]
+      },
+      {
+        "question_id": 1,
+        "score": 5.0,
+        "feedback": "Unable to evaluate this response due to a technical issue.",
+        "strengths": [],
+        "improvements": [
+          "Technical evaluation error occurred"
+        ]
+      },
+      {
+        "question_id": 2,
+        "score": 5.0,
+        "feedback": "Unable to evaluate this response due to a technical issue.",
+        "strengths": [],
+        "improvements": [
+          "Technical evaluation error occurred"
+        ]
+      },
+      {
+        "question_id": 3,
+        "score": 5.0,
+        "feedback": "Unable to evaluate this response due to a technical issue.",
+        "strengths": [],
+        "improvements": [
+          "Technical evaluation error occurred"
+        ]
+      },
+      {
+        "question_id": 4,
+        "score": 5.0,
+        "feedback": "Unable to evaluate this response due to a technical issue.",
+        "strengths": [],
+        "improvements": [
+          "Technical evaluation error occurred"
+        ]
+      },
+      {
+        "question_id": 5,
+        "score": 5.0,
+        "feedback": "Unable to evaluate this response due to a technical issue.",
+        "strengths": [],
+        "improvements": [
+          "Technical evaluation error occurred"
+        ]
+      }
+    ],
+    "analytics": {
+      "total_duration": "0 minutes 5 seconds",
+      "average_response_time": 0.9,
+      "speaking_pace": "Fast",
+      "technical_depth": "Low",
+      "communication_clarity": "Needs Improvement",
+      "consistency_score": 7.0
+    },
+    "recommendations": [
+      "Continue developing your product manager skills through hands-on projects",
+      "Practice explaining technical concepts clearly and concisely",
+      "Review fundamental concepts relevant to your target role"
+    ]
+  },
+  "completed_at": 1754383451.6973789
+}

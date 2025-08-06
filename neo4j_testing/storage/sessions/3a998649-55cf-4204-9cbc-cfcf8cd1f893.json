@@ -1,0 +1,29 @@
+{
+  "session_id": "3a998649-55cf-4204-9cbc-cfcf8cd1f893",
+  "role": "SDE",
+  "resume_path": "uploads\\3a998649-55cf-4204-9cbc-cfcf8cd1f893_om_tiwar_tech.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume mentions a 25% increase in user engagement after developing a responsive UI with Next.js, Tailwind CSS, and ShadCN. Can you describe the specific techniques you used to achieve this improvement, and what metrics you tracked to measure the impact?"
+    },
+    {
+      "id": 2,
+      "text": "You integrated AWS S3 for storing test cases in one project and used it again in your Opal-Ai project.  Could you compare and contrast your approach to S3 integration in these two different projects, highlighting any challenges you faced and how you overcame them?"
+    },
+    {
+      "id": 3,
+      "text": "In your Recruizo internship, you architected a coding contest platform resulting in a 40% increase in system efficiency and a 30% reduction in response time.  Walk me through the key architectural decisions you made and the specific optimizations that led to these significant improvements."
+    },
+    {
+      "id": 4,
+      "text": "Your Opal-Ai project involved building a full-stack video recording and streaming platform using Next.js, Electron, and Express.js.  Describe your approach to handling real-time screen/webcam capture and ensuring efficient delivery of 720p/1080p video streams."
+    },
+    {
+      "id": 5,
+      "text": "You've worked with several databases (MySQL, PostgreSQL, MongoDB).  For the Recruizo platform, you chose MongoDB.  Could you explain your rationale for selecting MongoDB over other database options, considering the specific requirements of a high-performance coding contest platform?"
+    }
+  ],
+  "vector_db_collection": "resume_1753436769",
+  "created_at": 1753436780.0388508
+}

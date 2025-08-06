@@ -1,0 +1,29 @@
+{
+  "session_id": "71297803-9aaf-48ac-825c-9a2686e0213a",
+  "role": "Product Manager",
+  "resume_path": "uploads\\71297803-9aaf-48ac-825c-9a2686e0213a_Om Amex-1.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights automating 10+ processes with Python, resulting in a 74% reduction in data analysis time during your internship at DTU-USIP.  Can you describe a specific process you automated, the challenges you faced, and how your solution improved the overall product or service?"
+    },
+    {
+      "id": 2,
+      "text": "In your Pizza Sales Metrics project, you used Power BI to visualize hourly sales for resource risk management.  Describe your process for identifying key performance indicators (KPIs) and how you ensured the dashboard effectively communicated actionable insights to stakeholders."
+    },
+    {
+      "id": 3,
+      "text": "Your experience with the Shark Tank India project involved analyzing risk-reward metrics for 52 pitches.  How did you apply your understanding of financial markets to inform investment decisions, and what were some key insights you derived that could translate to product prioritization in a Product Manager role?"
+    },
+    {
+      "id": 4,
+      "text": "Your resume mentions your BCG Strategy Consulting experience.  Can you share a specific example where you presented actionable insights to leadership and how you engaged stakeholders to strengthen a business strategy?  How does this experience relate to the requirements of a product manager?"
+    },
+    {
+      "id": 5,
+      "text": "You've demonstrated proficiency in several programming languages (C++, Python, JavaScript) and database technologies (SQL, MySQL).  Imagine you're tasked with developing a new product feature.  How would you leverage your technical skills to understand user needs, define specifications, and collaborate with engineering teams to bring this feature to market?"
+    }
+  ],
+  "vector_db_collection": "resume_1753607600",
+  "created_at": 1753607610.50198
+}

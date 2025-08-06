@@ -1,0 +1,140 @@
+{
+  "evaluation_id": "8c470f52-5c48-451f-b724-a2a80af8ab74",
+  "session_id": "ab46aaf2-fea1-459f-80b8-b67444f55f15",
+  "role": "Product Manager",
+  "interview_data": [
+    {
+      "question_id": 0,
+      "question_text": "Introduction",
+      "answer_text": "This is a simulated transcription. Replace this with actual Whisper integration.",
+      "answer_duration": 4.291
+    },
+    {
+      "question_id": 1,
+      "question_text": "Your resume highlights automating 10+ processes with Python, resulting in a 74% reduction in data analysis time during your internship at DTU-USIP.  Can you describe a specific process you automated, the challenges you faced, and how your solution improved the overall product or service?",
+      "answer_text": "This is a simulated transcription. Replace this with actual Whisper integration.",
+      "answer_duration": 3.676
+    },
+    {
+      "question_id": 2,
+      "question_text": "You mention using Power BI to create a dashboard visualizing hourly sales for resource risk management in your Pizza Sales Metrics project.  As a product manager, how would you leverage data visualization to inform product strategy and decision-making, and what key metrics would you prioritize?",
+      "answer_text": "This is a simulated transcription. Replace this with actual Whisper integration.",
+      "answer_duration": 2.091
+    },
+    {
+      "question_id": 3,
+      "question_text": "In your Shark Tank India project, you analyzed risk-reward metrics for 52 pitches.  Describe your approach to identifying and quantifying risk, and how you translated those findings into actionable insights for investment decisions. How does this experience translate to prioritizing features and managing risks in a product development context?",
+      "answer_text": "This is a simulated transcription. Replace this with actual Whisper integration.",
+      "answer_duration": 3.128
+    },
+    {
+      "question_id": 4,
+      "question_text": "Your resume showcases experience with various programming languages (C++, Python, JavaScript) and databases (SQL, MySQL).  How would you utilize these technical skills to collaborate effectively with engineering teams and ensure the successful development and launch of a new product?",
+      "answer_text": "This is a simulated transcription. Replace this with actual Whisper integration.",
+      "answer_duration": 1.238
+    },
+    {
+      "question_id": 5,
+      "question_text": "Your BCG Strategy Consulting experience and your work on projects like analyzing pizza sales metrics and Shark Tank pitches demonstrate strong analytical skills.  Describe a situation where you had to analyze a complex problem, identify key drivers, and present your findings to stakeholders to influence a strategic decision.  How did you tailor your communication to resonate with different stakeholder groups?",
+      "answer_text": "This is a simulated transcription. Replace this with actual Whisper integration.",
+      "answer_duration": 0.779
+    }
+  ],
+  "submitted_at": 1754304209.4010742,
+  "status": "completed",
+  "results": {
+    "overall_score": 3.4,
+    "overall_feedback": "While your enthusiasm was evident, the interview highlighted areas needing further development, particularly in communication clarity and technical depth.  With focused effort on improving your articulation and expanding your technical knowledge, you have the potential to become a strong product manager candidate in the future.  We encourage you to consider additional training and experience to strengthen your skillset before applying again.",
+    "question_analysis": [
+      {
+        "question_id": 0,
+        "score": 0.0,
+        "feedback": "The answer is completely inadequate.  It provides no information about the candidate's understanding of product management or their approach to the interview process.  The placeholder text indicates a failure to prepare and a lack of understanding of the interview context.",
+        "strengths": [],
+        "improvements": [
+          "Prepare a thoughtful introduction highlighting relevant experience and skills.",
+          "Demonstrate understanding of the role and the company.",
+          "Practice delivering a concise and engaging introduction."
+        ]
+      },
+      {
+        "question_id": 1,
+        "score": 4.0,
+        "feedback": "The answer is completely inadequate as it only restates the resume bullet point without providing any specific details about the automated process, the challenges encountered, or the impact on the product or service.  It fails to demonstrate the candidate's problem-solving skills and their understanding of the automation process.  The response shows a lack of preparation and concrete examples.",
+        "strengths": [],
+        "improvements": [
+          "Provide a concrete example of a process automated with Python (e.g., data cleaning, report generation, etc.)",
+          "Detail the challenges faced (e.g., data inconsistencies, system limitations, etc.) and how they were overcome",
+          "Quantify the impact of the automation on the product or service using specific metrics (e.g., increased efficiency, cost savings, improved accuracy)."
+        ]
+      },
+      {
+        "question_id": 2,
+        "score": 4.0,
+        "feedback": "The answer is weak because it lacks concrete examples of how data visualization would inform product strategy.  It mentions using Power BI and visualizing hourly sales, but doesn't connect this to specific product decisions or strategic shifts. The response needs to demonstrate a deeper understanding of how data visualization drives product development.  There's no mention of key metrics beyond hourly sales.",
+        "strengths": [
+          "Mention of Power BI (demonstrates familiarity with a relevant tool)"
+        ],
+        "improvements": [
+          "Provide concrete examples of how visualized data (e.g., charts showing customer churn, feature usage) would influence product roadmap decisions.",
+          "Define key performance indicators (KPIs) beyond hourly sales and explain their importance in guiding product strategy.",
+          "Illustrate how different visualizations (e.g., funnel charts, heat maps) would be used to address specific business questions and inform decisions."
+        ]
+      },
+      {
+        "question_id": 3,
+        "score": 6.0,
+        "feedback": "The answer lacks specifics. While it mentions analyzing risk-reward metrics, it doesn't detail the specific metrics used (e.g., market size, competitive landscape, team expertise, financial projections).  The connection between the Shark Tank analysis and product development prioritization is also vaguely stated and needs more concrete examples.  The absence of a real answer makes a proper evaluation difficult.",
+        "strengths": [
+          "Acknowledges the question",
+          "Attempts to connect Shark Tank experience to product development",
+          "Demonstrates understanding of risk assessment (in general terms)"
+        ],
+        "improvements": [
+          "Provide specific examples of risk metrics used and how they were quantified.",
+          "Clearly articulate the process of translating risk assessments into actionable investment decisions (in the Shark Tank scenario).",
+          "Give concrete examples of how the learned risk assessment and prioritization strategies translate directly into feature prioritization and risk management in a product development context."
+        ]
+      },
+      {
+        "question_id": 4,
+        "score": 4.0,
+        "feedback": "The answer is incomplete and lacks concrete examples.  While mentioning possessing relevant technical skills is a good start, it fails to explain *how* these skills would be used for collaboration and successful product launch.  The response needs to demonstrate a practical understanding of the interplay between technical skills and product management.",
+        "strengths": [
+          "Acknowledges relevant technical skills",
+          "Implicit understanding of the need for technical skills in product management"
+        ],
+        "improvements": [
+          "Provide specific examples of how the mentioned skills would be used in collaboration (e.g., code reviews, database schema design, technical feasibility assessments)",
+          "Explain how these skills would contribute to a successful product launch (e.g., identifying technical risks, setting realistic timelines, making informed decisions)",
+          "Articulate a clear understanding of the product management process and how technical skills fit into it."
+        ]
+      },
+      {
+        "question_id": 5,
+        "score": 4.0,
+        "feedback": "The answer is weak because it only references the prompt and doesn't provide a concrete example.  The candidate mentions analytical skills but doesn't demonstrate them through a specific scenario.  The lack of a detailed example prevents the interviewer from assessing their problem-solving abilities and communication skills.",
+        "strengths": [],
+        "improvements": [
+          "Provide a specific example of a complex problem, detailing the steps taken to analyze it, identify key drivers, and present findings.  Show how communication was tailored for different stakeholders (e.g., technical details for engineers vs. high-level summary for executives).  Quantify the impact of the decision influenced by the analysis."
+        ]
+      }
+    ],
+    "analytics": {
+      "total_duration": "0 minutes 15 seconds",
+      "average_response_time": 2.5,
+      "speaking_pace": "Fast",
+      "technical_depth": "Low",
+      "communication_clarity": "Needs Improvement",
+      "consistency_score": 0
+    },
+    "recommendations": [
+      "Craft a 60-second elevator pitch highlighting 2-3 impactful product achievements showcasing your analytical skills and problem-solving abilities, then practice delivering it smoothly and at a moderate pace, recording yourself to check for clarity and pacing.",
+      "Research the company's products, target market, and recent news thoroughly.  Prepare 2-3 insightful questions demonstrating your understanding of their challenges and opportunities in the product space.",
+      "Focus on improving communication clarity by structuring your answers using the STAR method (Situation, Task, Action, Result) when discussing past experiences, ensuring each point is clearly articulated and concise.",
+      "Supplement your product knowledge by taking an online course focusing on a relevant technical skill (e.g., SQL, data analysis basics) to build your technical depth.",
+      "Practice active listening during conversations by pausing briefly before responding to ensure you understand the question fully and formulate a well-structured answer."
+    ]
+  },
+  "completed_at": 1754304268.8905537
+}

@@ -1,0 +1,46 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+
+// Looking for ways to speed up your queries, or scale easily with your serverless or edge functions?
+// Try Prisma Accelerate: https://pris.ly/cli/accelerate-init
+
+generator client {
+  provider = "prisma-client-js"
+  output   = "../src/generated/prisma"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+model User {
+  id        String      @id @default(cuid())
+  clerkId   String      @unique // Clerk's user ID from Clerk auth
+  email     String      @unique
+  name      String?
+  evaluations Evaluation[]
+  resumes   Resume[]
+}
+
+model Resume {
+  id         String   @id @default(cuid())
+  userId     String
+  fileUrl    String   // Path or URL to the resume file
+  uploadedAt DateTime @default(now())
+  user       User     @relation(fields: [userId], references: [id])
+}
+
+model Evaluation {
+  id            String   @id @default(cuid())
+  evaluation_id String   @unique
+  session_id    String
+  role          String
+  interview_data Json
+  submitted_at  Float
+  status        String
+  results       Json
+  completed_at  Float
+  userId        String
+  user          User     @relation(fields: [userId], references: [id])
+}

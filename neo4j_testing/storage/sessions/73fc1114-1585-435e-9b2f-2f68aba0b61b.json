@@ -1,0 +1,29 @@
+{
+  "session_id": "73fc1114-1585-435e-9b2f-2f68aba0b61b",
+  "role": "Product Manager",
+  "resume_path": "uploads\\73fc1114-1585-435e-9b2f-2f68aba0b61b_Om Resume.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights your experience building a reporting tool for DTU that increased efficiency by 94%. Can you describe the product management aspects of this project, including how you defined the problem, prioritized features, and managed stakeholders to achieve this significant improvement?"
+    },
+    {
+      "id": 2,
+      "text": "You analyzed 52 pitches from Shark Tank India, identifying a 55% conversion rate for pitches by women.  How would you apply this analytical approach to product development, specifically in terms of understanding user needs and identifying potential market segments for a new product?"
+    },
+    {
+      "id": 3,
+      "text": "Your Pizza Sales Metrics project involved analyzing 50,000 records and creating a Power BI dashboard with 25+ KPIs. Describe your process for translating raw data into actionable insights and how you prioritized which KPIs to include in the dashboard to best inform business decisions."
+    },
+    {
+      "id": 4,
+      "text": "Your experience mentoring students through the Desh-ke-Mentor program demonstrates leadership skills. How would you leverage these skills to lead and motivate a product team, particularly in navigating conflicting priorities and deadlines?"
+    },
+    {
+      "id": 5,
+      "text": "You've demonstrated proficiency in various programming languages (Python, JavaScript, SQL) and data visualization tools (Power BI). How would you utilize these technical skills to collaborate effectively with engineers and data scientists during the product development lifecycle, ensuring alignment between technical feasibility and business goals?"
+    }
+  ],
+  "vector_db_collection": "resume_1753531942",
+  "created_at": 1753531951.7910385
+}

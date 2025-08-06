@@ -1,0 +1,29 @@
+{
+  "session_id": "279aa658-78d7-4f86-9786-b2ba2196a978",
+  "role": "Product Manager",
+  "resume_path": "uploads\\279aa658-78d7-4f86-9786-b2ba2196a978_Om Amex-1 (1).pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights automating 10+ processes with Python, resulting in a 74% reduction in data analysis time during your internship. Can you describe a specific process you automated, the challenges you faced, and how your solution addressed those challenges in the context of a product development lifecycle?"
+    },
+    {
+      "id": 2,
+      "text": "You mention using Power BI to create a dashboard visualizing hourly sales for resource risk management in your Pizza Sales Metrics project.  As a product manager, how would you use similar data visualization techniques to inform product strategy and prioritize feature development?"
+    },
+    {
+      "id": 3,
+      "text": "In your Shark Tank India project, you analyzed 52 pitches and identified a 55% conversion rate for women-led pitches.  How would you translate this type of market research into a product roadmap, considering factors like target audience and market potential?"
+    },
+    {
+      "id": 4,
+      "text": "Your experience with BCG Strategy Consulting and your various projects involving risk analysis demonstrate a strong understanding of business strategy.  Describe a situation where you had to balance competing stakeholder priorities when making a product decision, and how you reached a resolution."
+    },
+    {
+      "id": 5,
+      "text": "You've demonstrated proficiency in several programming languages (C++, Python, JavaScript) and databases (SQL, MySQL).  Considering your experience, how would you approach integrating user feedback and technical feasibility into the product development process, particularly when dealing with potential conflicts between the two?"
+    }
+  ],
+  "vector_db_collection": "resume_1754393569",
+  "created_at": 1754393606.8259447
+}

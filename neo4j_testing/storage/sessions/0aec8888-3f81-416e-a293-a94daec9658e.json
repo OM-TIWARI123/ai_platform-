@@ -1,0 +1,29 @@
+{
+  "session_id": "0aec8888-3f81-416e-a293-a94daec9658e",
+  "role": "Product Manager",
+  "resume_path": "uploads\\0aec8888-3f81-416e-a293-a94daec9658e_om_tiwar_tech.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Describe how you prioritize features when building a product roadmap."
+    },
+    {
+      "id": 2,
+      "text": "Tell me about a time when you had to make a difficult product decision with limited data."
+    },
+    {
+      "id": 3,
+      "text": "How do you gather and incorporate user feedback into product development?"
+    },
+    {
+      "id": 4,
+      "text": "Describe your approach to working with cross-functional teams."
+    },
+    {
+      "id": 5,
+      "text": "How do you measure product success and define key performance indicators?"
+    }
+  ],
+  "vector_db_collection": "resume_1753542189",
+  "created_at": 1753542207.880623
+}

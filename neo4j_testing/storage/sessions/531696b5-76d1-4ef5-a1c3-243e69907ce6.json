@@ -1,0 +1,29 @@
+{
+  "session_id": "531696b5-76d1-4ef5-a1c3-243e69907ce6",
+  "role": "Product Manager",
+  "resume_path": "uploads\\531696b5-76d1-4ef5-a1c3-243e69907ce6_Om Resume.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights your work on a reporting tool for DTU, replacing an existing system with a 94% efficiency gain. Can you walk me through the product management aspects of this project?  What challenges did you face in defining the product requirements, prioritizing features, and managing stakeholder expectations?"
+    },
+    {
+      "id": 2,
+      "text": "You analyzed 52 pitches from Shark Tank India, identifying a 55% conversion rate for pitches from women.  How did you leverage data analysis to inform product strategy or identify potential product opportunities based on these insights, and how might you apply this to a product management role?"
+    },
+    {
+      "id": 3,
+      "text": "Your Pizza Sales Metrics project involved analyzing 50,000 records and creating a Power BI dashboard with 25+ KPIs.  Describe your process for identifying key performance indicators (KPIs) and how you ensured the dashboard effectively communicated insights to stakeholders.  How did you prioritize which metrics to include?"
+    },
+    {
+      "id": 4,
+      "text": "You've demonstrated proficiency in several programming languages (Python, JavaScript, SQL) and tools (Power BI, MySQL, MongoDB). How would you leverage your technical skills to collaborate effectively with engineering teams in a product management capacity, and how would you balance technical depth with strategic product vision?"
+    },
+    {
+      "id": 5,
+      "text": "Your experience leading your basketball team to first place and mentoring students through the Desh-ke-Mentor program showcases leadership and communication skills. How would you apply these leadership and communication skills to motivate and guide a cross-functional product team to achieve product goals?"
+    }
+  ],
+  "vector_db_collection": "resume_1753525560",
+  "created_at": 1753525571.3133883
+}

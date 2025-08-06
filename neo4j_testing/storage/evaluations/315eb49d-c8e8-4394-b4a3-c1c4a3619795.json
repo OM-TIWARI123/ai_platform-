@@ -1,0 +1,119 @@
+{
+  "evaluation_id": "315eb49d-c8e8-4394-b4a3-c1c4a3619795",
+  "session_id": "8a039e8b-cec4-4dda-9e10-a7913be0387a",
+  "role": "Product Manager",
+  "interview_data": [
+    {
+      "question_id": 0,
+      "question_text": "Introduction",
+      "answer_text": "hi my name is Om Tiwari",
+      "answer_duration": 0.0
+    },
+    {
+      "question_id": 1,
+      "question_text": "Your resume highlights automating 10+ processes with Python, resulting in a 74% reduction in data analysis time during your internship at DTU-USIP.  Can you describe a specific process you automated, the challenges you faced, and how your solution addressed those challenges from a product management perspective?  How would you approach similar automation in a product development context?",
+      "answer_text": "I haven't worked on that please provide with me some",
+      "answer_duration": 0.0
+    },
+    {
+      "question_id": 2,
+      "question_text": "You used Power BI and SQL to analyze 50,000 pizza sales records, identifying key revenue drivers and operational risks.  As a product manager, how would you translate these findings into actionable product improvements or new features to boost sales and mitigate risk?",
+      "answer_text": "I can't do that sorry I haven't done that mobile Can you provide with me a next question please do that",
+      "answer_duration": 0.0
+    },
+    {
+      "question_id": 3,
+      "question_text": "Your experience with the Shark Tank India project involved computing risk-reward metrics for 52 pitches, significantly streamlining the investment decision-making process.  Describe how you would apply your understanding of risk analysis and financial markets principles to prioritize features and allocate resources in a product roadmap.",
+      "answer_text": "I can't do that sorry",
+      "answer_duration": 0.0
+    },
+    {
+      "question_id": 4,
+      "question_text": "You mention developing a reporting tool with 94% efficiency, enhancing risk monitoring for administrative stakeholders.  Could you walk me through the design process of this tool, focusing on how you gathered requirements from stakeholders and prioritized features based on their needs and business impact?",
+      "answer_text": "please provide me with some context",
+      "answer_duration": 0.0
+    },
+    {
+      "question_id": 5,
+      "question_text": "Your BCG Strategy Consulting experience and your various projects demonstrate a strong understanding of business strategy.  Imagine you're managing a product facing declining user engagement. How would you leverage your analytical and stakeholder communication skills to diagnose the problem, develop a solution, and get buy-in from your team and stakeholders?",
+      "answer_text": "can't do that sorry",
+      "answer_duration": 0.0
+    }
+  ],
+  "submitted_at": 1754389401.8454812,
+  "status": "completed",
+  "results": {
+    "overall_score": 4.7,
+    "overall_feedback": "Thank you for completing the interview. Your responses demonstrated good engagement with the questions and relevant experience for the role.",
+    "question_analysis": [
+      {
+        "question_id": 0,
+        "score": 5.0,
+        "feedback": "Unable to evaluate this response due to a technical issue.",
+        "strengths": [],
+        "improvements": [
+          "Technical evaluation error occurred"
+        ]
+      },
+      {
+        "question_id": 1,
+        "score": 5.0,
+        "feedback": "Unable to evaluate this response due to a technical issue.",
+        "strengths": [],
+        "improvements": [
+          "Technical evaluation error occurred"
+        ]
+      },
+      {
+        "question_id": 2,
+        "score": 5.0,
+        "feedback": "Unable to evaluate this response due to a technical issue.",
+        "strengths": [],
+        "improvements": [
+          "Technical evaluation error occurred"
+        ]
+      },
+      {
+        "question_id": 3,
+        "score": 5.0,
+        "feedback": "Unable to evaluate this response due to a technical issue.",
+        "strengths": [],
+        "improvements": [
+          "Technical evaluation error occurred"
+        ]
+      },
+      {
+        "question_id": 4,
+        "score": 5.0,
+        "feedback": "Unable to evaluate this response due to a technical issue.",
+        "strengths": [],
+        "improvements": [
+          "Technical evaluation error occurred"
+        ]
+      },
+      {
+        "question_id": 5,
+        "score": 5.0,
+        "feedback": "Unable to evaluate this response due to a technical issue.",
+        "strengths": [],
+        "improvements": [
+          "Technical evaluation error occurred"
+        ]
+      }
+    ],
+    "analytics": {
+      "total_duration": "0 minutes 0 seconds",
+      "average_response_time": 0.0,
+      "speaking_pace": "Normal",
+      "technical_depth": "Low",
+      "communication_clarity": "Needs Improvement",
+      "consistency_score": 7.0
+    },
+    "recommendations": [
+      "Continue developing your product manager skills through hands-on projects",
+      "Practice explaining technical concepts clearly and concisely",
+      "Review fundamental concepts relevant to your target role"
+    ]
+  },
+  "completed_at": 1754389433.161565
+}

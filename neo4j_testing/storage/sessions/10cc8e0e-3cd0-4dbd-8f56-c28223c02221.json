@@ -1,0 +1,29 @@
+{
+  "session_id": "10cc8e0e-3cd0-4dbd-8f56-c28223c02221",
+  "role": "Product Manager",
+  "resume_path": "uploads\\10cc8e0e-3cd0-4dbd-8f56-c28223c02221_Om Amex-1 (1).pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights your experience automating data analysis processes using Python, resulting in a 74% reduction in analysis time.  Can you describe a specific scenario where you used this skill to inform a product decision, perhaps identifying a user need or market opportunity?"
+    },
+    {
+      "id": 2,
+      "text": "You mention using Power BI to create a dashboard visualizing hourly sales and identifying top revenue drivers. As a Product Manager, how would you leverage this data-driven approach to prioritize features and measure the success of a product launch?"
+    },
+    {
+      "id": 3,
+      "text": "Your BCG Strategy Consulting experience and your projects analyzing Shark Tank India pitches demonstrate a strong understanding of risk analysis and financial markets. How would you apply this knowledge to assess the market viability of a new product and mitigate potential risks?"
+    },
+    {
+      "id": 4,
+      "text": "Your SQL skills were used extensively in projects like analyzing pizza sales metrics and Shark Tank data.  Describe a situation where you had to overcome a challenge related to data acquisition, cleaning, or analysis to derive actionable insights for a decision."
+    },
+    {
+      "id": 5,
+      "text": "You mentored students through the Desh-ke-Mentor Program.  How does your experience in mentorship translate to leading and motivating a product team to achieve shared goals and deliver high-quality products?"
+    }
+  ],
+  "vector_db_collection": "resume_1754383185",
+  "created_at": 1754383221.9193993
+}

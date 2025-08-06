@@ -1,0 +1,29 @@
+{
+  "session_id": "f2b042f0-b280-4d19-ad7b-21d4a8ae59b5",
+  "role": "Product Manager",
+  "resume_path": "uploads\\f2b042f0-b280-4d19-ad7b-21d4a8ae59b5_Om Resume.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights your experience building a reporting tool for DTU that improved efficiency by 94%. Can you walk me through the product development process for this tool, focusing on your decisions around prioritization, trade-offs, and user feedback incorporation?"
+    },
+    {
+      "id": 2,
+      "text": "You analyzed 52 pitches from Shark Tank India, identifying a 55% conversion rate for women-led businesses.  How did this analysis inform your recommendations, and how would you apply a similar data-driven approach to product strategy in a product management role?"
+    },
+    {
+      "id": 3,
+      "text": "Your Pizza Sales Metrics project involved analyzing 50,000 records and creating a Power BI dashboard with 25+ KPIs. Describe a scenario where you had to make a difficult decision based on conflicting data insights, and explain your reasoning."
+    },
+    {
+      "id": 4,
+      "text": "You mention leading your basketball team to victory and mentoring students.  How do these experiences translate to the collaborative and leadership aspects crucial for a successful product manager?"
+    },
+    {
+      "id": 5,
+      "text": "Considering your diverse skillset, including proficiency in Python, SQL, and various web development technologies, how would you leverage your technical knowledge to effectively communicate and collaborate with engineering and design teams in a product development environment?"
+    }
+  ],
+  "vector_db_collection": "resume_1753526055",
+  "created_at": 1753526065.4725702
+}

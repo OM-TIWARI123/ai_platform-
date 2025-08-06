@@ -1,0 +1,29 @@
+{
+  "session_id": "d8523351-7c1f-4fb3-b84b-100074857eb7",
+  "role": "Product Manager",
+  "resume_path": "uploads\\d8523351-7c1f-4fb3-b84b-100074857eb7_Om Amex-1 (1).pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Describe a time you identified a problem, conducted market research, and developed a product solution to address it.  Focus on your process and the outcome."
+    },
+    {
+      "id": 2,
+      "text": "Based on your experience with data analysis (e.g., Pizza Sales Metrics project), how would you approach defining key performance indicators (KPIs) for a new product launch?"
+    },
+    {
+      "id": 3,
+      "text": "Your resume highlights significant experience automating processes.  Describe a scenario where you had to balance the benefits of automation with potential negative impacts on stakeholders (e.g., job displacement). How did you navigate this?"
+    },
+    {
+      "id": 4,
+      "text": "You've worked with various programming languages (Python, SQL, JavaScript).  How would you leverage your technical skills to inform product decisions and collaborate effectively with engineering teams?"
+    },
+    {
+      "id": 5,
+      "text": "You mention stakeholder communication as a key skill.  Describe a situation where you had to persuade a skeptical stakeholder to adopt your product vision or strategy.  What was your approach?"
+    }
+  ],
+  "vector_db_collection": "resume_1753541290",
+  "created_at": 1753541310.7983441
+}

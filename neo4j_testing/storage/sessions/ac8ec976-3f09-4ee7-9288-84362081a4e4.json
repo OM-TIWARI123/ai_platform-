@@ -1,0 +1,29 @@
+{
+  "session_id": "ac8ec976-3f09-4ee7-9288-84362081a4e4",
+  "role": "Product Manager",
+  "resume_path": "uploads\\ac8ec976-3f09-4ee7-9288-84362081a4e4_Om Amex-1 (2).pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights automating 10+ processes with Python, resulting in a 74% reduction in data analysis time during your internship.  Can you describe a specific process you automated, detailing the challenges you faced, your solution, and the impact on stakeholders?"
+    },
+    {
+      "id": 2,
+      "text": "You mention using Power BI to create a dashboard visualizing hourly sales for resource risk management in your Pizza Sales Metrics project.  Walk me through your process of identifying key performance indicators (KPIs), designing the dashboard, and how you ensured the information was actionable for decision-making."
+    },
+    {
+      "id": 3,
+      "text": "In your Shark Tank India project, you analyzed 52 pitches and calculated risk-reward metrics.  Describe your methodology for assessing risk and reward, and how you presented your findings to influence investment decisions.  How did you consider the trade-off between risk and return in your analysis?"
+    },
+    {
+      "id": 4,
+      "text": "Your experience includes both technical skills (Python, SQL, Power BI) and business acumen (market research, risk analysis, stakeholder communication).  Describe a situation where you successfully integrated these skills to solve a complex problem or achieve a significant outcome.  Focus on how your technical skills supported your business objectives."
+    },
+    {
+      "id": 5,
+      "text": "Your BCG Strategy Consulting experience and your various projects demonstrate a strong analytical and problem-solving approach.  Describe a time you had to make a difficult decision based on incomplete or conflicting data.  How did you approach the situation, and what was the outcome?"
+    }
+  ],
+  "vector_db_collection": "resume_1753539477",
+  "created_at": 1753539487.6202443
+}

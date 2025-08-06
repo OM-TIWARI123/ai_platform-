@@ -1,0 +1,29 @@
+{
+  "session_id": "7ccd583b-def9-4606-9a03-acbf3bfb0cc8",
+  "role": "Product Manager",
+  "resume_path": "uploads\\7ccd583b-def9-4606-9a03-acbf3bfb0cc8_Om Resume.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights your experience building a reporting tool that increased efficiency by 94% in tracking website usage statistics across 50+ administrative offices.  Can you describe the product management challenges you faced during this project, specifically focusing on prioritizing features, managing stakeholder expectations, and measuring success beyond just efficiency gains?"
+    },
+    {
+      "id": 2,
+      "text": "You analyzed 52 pitches from women entrepreneurs for Shark Tank India, noting a 55% conversion rate.  How would you apply this experience in a product management context to understand and address the needs of a specific user segment, and how would you measure the success of initiatives aimed at inclusivity?"
+    },
+    {
+      "id": 3,
+      "text": "Your Pizza Sales Metrics project involved analyzing 50,000 records and creating a Power BI dashboard with 25+ KPIs. Describe your process for defining key performance indicators (KPIs) and how you ensured the data visualizations effectively communicated insights to stakeholders to inform product decisions."
+    },
+    {
+      "id": 4,
+      "text": "Given your experience with various programming languages (C++, Python, JavaScript, SQL) and tools (ReactJS, NodeJS, MongoDB), how would you leverage your technical skills to collaborate effectively with engineering teams in the product development lifecycle, and how would you balance technical feasibility with business requirements?"
+    },
+    {
+      "id": 5,
+      "text": "Your leadership experience, including leading your basketball team to victory and mentoring students, demonstrates strong leadership skills.  How would you apply these leadership skills to a product management role, specifically in terms of motivating and guiding a cross-functional team to achieve product goals, especially when facing conflicting priorities?"
+    }
+  ],
+  "vector_db_collection": "resume_1753532582",
+  "created_at": 1753532591.8879538
+}

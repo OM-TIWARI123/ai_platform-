@@ -1,0 +1,29 @@
+{
+  "session_id": "05f65d80-9ed4-42e1-ae34-26be97a91da3",
+  "role": "Product Manager",
+  "resume_path": "uploads\\05f65d80-9ed4-42e1-ae34-26be97a91da3_Om Amex-1 (2).pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights your experience automating processes with Python, significantly reducing data analysis time in your internship at DTU-USIP.  Can you describe a situation where you used data analysis to identify a product opportunity or solve a product-related problem, and how your technical skills helped you achieve this?"
+    },
+    {
+      "id": 2,
+      "text": "You mention using Power BI to create a dashboard visualizing hourly sales for resource risk management in your Pizza Sales Metrics project.  As a Product Manager, you'll need to present complex data to stakeholders. How would you tailor your approach to presenting this kind of data to different stakeholders with varying levels of technical expertise?"
+    },
+    {
+      "id": 3,
+      "text": "Your BCG Strategy Consulting experience likely exposed you to various strategic frameworks.  Describe a time you used a strategic framework to analyze a product or market challenge, and explain how your analysis influenced a decision or recommendation."
+    },
+    {
+      "id": 4,
+      "text": "In your Shark Tank India project, you computed risk-reward metrics for investment decisions. How would you apply a similar analytical approach to prioritize features in a product roadmap, considering factors like market demand, resource constraints, and potential risks?"
+    },
+    {
+      "id": 5,
+      "text": "Your resume demonstrates proficiency in SQL and various programming languages.  How would you leverage your technical skills to collaborate effectively with engineering teams in the development and launch of a new product, ensuring that the product meets the defined specifications and user needs?"
+    }
+  ],
+  "vector_db_collection": "resume_1754413875",
+  "created_at": 1754413898.4012399
+}

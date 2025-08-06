@@ -1,0 +1,29 @@
+{
+  "session_id": "56132b20-597d-41dd-8ba6-645373579cea",
+  "role": "Product Manager",
+  "resume_path": "uploads\\56132b20-597d-41dd-8ba6-645373579cea_Om Amex-1 (2).pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights automating 10+ processes with Python, resulting in a 74% reduction in data analysis time during your internship at DTU-USIP.  Can you describe a specific process you automated, the challenges you faced, and how your solution directly improved decision-making within the organization?  How does this experience translate to the challenges of managing a product development lifecycle?"
+    },
+    {
+      "id": 2,
+      "text": "You mention developing a reporting tool with 94% efficiency, enhancing risk monitoring.  As a product manager, you'll need to prioritize features.  How would you approach prioritizing features for a similar reporting tool, considering factors like user needs, technical feasibility, and business impact?"
+    },
+    {
+      "id": 3,
+      "text": "Your Pizza Sales Metrics project involved analyzing 50K records and designing a Power BI dashboard with 25+ KPIs.  Describe your process for identifying the most crucial KPIs and how you ensured the dashboard effectively communicated insights to stakeholders.  How would this approach differ if you were building a product dashboard for a SaaS application?"
+    },
+    {
+      "id": 4,
+      "text": "Your experience with the Shark Tank India project involved analyzing risk-reward metrics for investment decisions.  How did you use financial market principles to inform your analysis, and how would you apply similar analytical skills to assess the market viability and potential ROI of a new product?"
+    },
+    {
+      "id": 5,
+      "text": "You completed a BCG Strategy Consulting internship.  Describe a strategic challenge you faced during this internship and how you applied your analytical and communication skills to develop and present a solution.  How does your experience in strategy consulting inform your approach to product strategy and roadmap development?"
+    }
+  ],
+  "vector_db_collection": "resume_1753616622",
+  "created_at": 1753616634.14919
+}

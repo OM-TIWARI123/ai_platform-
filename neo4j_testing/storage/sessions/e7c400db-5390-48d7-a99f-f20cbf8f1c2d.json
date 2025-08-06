@@ -1,0 +1,29 @@
+{
+  "session_id": "e7c400db-5390-48d7-a99f-f20cbf8f1c2d",
+  "role": "Product Manager",
+  "resume_path": "uploads\\e7c400db-5390-48d7-a99f-f20cbf8f1c2d_om_tiwar_tech.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights a 25% boost in user engagement after developing a responsive UI with Next.js, Tailwind CSS, and ShadCN.  Can you walk me through your process for identifying the areas for improvement, designing the solution, and measuring the impact of those changes?  How did you balance user experience with technical constraints?"
+    },
+    {
+      "id": 2,
+      "text": "You mention integrating AWS S3 for test case storage. As a Product Manager, how would you approach similar infrastructure decisions, considering factors like cost, scalability, security, and maintainability?"
+    },
+    {
+      "id": 3,
+      "text": "Your experience encompasses a range of technologies, including React.js, Next.js, and various databases.  How would you leverage this technical breadth to effectively communicate with and manage engineering teams working on different aspects of a product?"
+    },
+    {
+      "id": 4,
+      "text": "Your achievements demonstrate strong leadership and problem-solving skills, from leading your basketball team to winning a business case competition.  Describe a situation where you had to manage conflicting priorities or stakeholder expectations, and how you navigated that challenge."
+    },
+    {
+      "id": 5,
+      "text": "Given your background in algorithms and database systems (as evidenced by your NPTEL certifications), how would you apply this understanding to define key performance indicators (KPIs) and prioritize features for a new product, ensuring it meets both user needs and business objectives?"
+    }
+  ],
+  "vector_db_collection": "resume_1754381247",
+  "created_at": 1754381749.8205628
+}

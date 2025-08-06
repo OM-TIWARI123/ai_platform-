@@ -1,0 +1,29 @@
+{
+  "session_id": "1a6df28a-f022-497e-90a1-91399a22c427",
+  "role": "Product Manager",
+  "resume_path": "uploads\\1a6df28a-f022-497e-90a1-91399a22c427_Om Amex-1.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights automating 10+ processes with Python, resulting in a 74% reduction in data analysis time during your internship at DTU-USIP.  Can you describe a specific process you automated, the challenges you faced, and how your solution contributed to improved decision-making within the context of a product development lifecycle?"
+    },
+    {
+      "id": 2,
+      "text": "You utilized Power BI and MySQL to analyze 50,000 pizza sales records, identifying key revenue drivers and operational risk factors.  As a product manager, how would you leverage this type of data analysis to inform product strategy and prioritize features for a new pizza delivery app?"
+    },
+    {
+      "id": 3,
+      "text": "Your experience with the Shark Tank India project involved calculating risk-reward metrics for investment decisions.  How would you apply a similar analytical framework to assess the market viability and potential risks associated with launching a new product?"
+    },
+    {
+      "id": 4,
+      "text": "Your BCG Strategy Consulting experience likely exposed you to various stakeholder management techniques. Describe a situation where you had to navigate conflicting priorities or opinions among stakeholders, and how you successfully facilitated a consensus to achieve a common goal. How would this translate to managing a product development team?"
+    },
+    {
+      "id": 5,
+      "text": "You mention developing a reporting tool with 94% efficiency improvement.  Can you walk me through the design process, highlighting your approach to defining requirements, selecting appropriate technologies (considering your proficiency in SQL, Python, and Power BI), and measuring the success of your implementation? How would you apply this process to build a product roadmap?"
+    }
+  ],
+  "vector_db_collection": "resume_1754381816",
+  "created_at": 1754381840.7686305
+}

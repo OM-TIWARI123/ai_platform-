@@ -1,0 +1,29 @@
+{
+  "session_id": "bce12a6f-2c4a-461a-b156-b80a3fd21847",
+  "role": "Data Scientist",
+  "resume_path": "uploads\\bce12a6f-2c4a-461a-b156-b80a3fd21847_Om Amex-1 (1).pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Describe a data science project where you had to work with messy or incomplete data."
+    },
+    {
+      "id": 2,
+      "text": "How do you approach feature selection and engineering in your models?"
+    },
+    {
+      "id": 3,
+      "text": "Tell me about a time when you had to explain complex analytical findings to non-technical stakeholders."
+    },
+    {
+      "id": 4,
+      "text": "What's your process for evaluating and validating machine learning models?"
+    },
+    {
+      "id": 5,
+      "text": "How do you stay current with new developments in data science and machine learning?"
+    }
+  ],
+  "vector_db_collection": "resume_1754382405",
+  "created_at": 1754382672.3917563
+}

@@ -1,0 +1,119 @@
+{
+  "evaluation_id": "68a834ba-6389-4767-a01e-7d82b692a6fd",
+  "session_id": "bce12a6f-2c4a-461a-b156-b80a3fd21847",
+  "role": "Data Scientist",
+  "interview_data": [
+    {
+      "question_id": 0,
+      "question_text": "Introduction",
+      "answer_text": "This is a simulated transcription. Replace this with actual Whisper integration.",
+      "answer_duration": 1.069
+    },
+    {
+      "question_id": 1,
+      "question_text": "Describe a data science project where you had to work with messy or incomplete data.",
+      "answer_text": "This is a simulated transcription. Replace this with actual Whisper integration.",
+      "answer_duration": 1.655
+    },
+    {
+      "question_id": 2,
+      "question_text": "How do you approach feature selection and engineering in your models?",
+      "answer_text": "This is a simulated transcription. Replace this with actual Whisper integration.",
+      "answer_duration": 0.838
+    },
+    {
+      "question_id": 3,
+      "question_text": "Tell me about a time when you had to explain complex analytical findings to non-technical stakeholders.",
+      "answer_text": "This is a simulated transcription. Replace this with actual Whisper integration.",
+      "answer_duration": 1.571
+    },
+    {
+      "question_id": 4,
+      "question_text": "What's your process for evaluating and validating machine learning models?",
+      "answer_text": "This is a simulated transcription. Replace this with actual Whisper integration.",
+      "answer_duration": 4.689
+    },
+    {
+      "question_id": 5,
+      "question_text": "How do you stay current with new developments in data science and machine learning?",
+      "answer_text": "This is a simulated transcription. Replace this with actual Whisper integration.",
+      "answer_duration": 1.236
+    }
+  ],
+  "submitted_at": 1754383120.5131025,
+  "status": "completed",
+  "results": {
+    "overall_score": 4.7,
+    "overall_feedback": "Thank you for completing the interview. Your responses demonstrated good engagement with the questions and relevant experience for the role.",
+    "question_analysis": [
+      {
+        "question_id": 0,
+        "score": 5.0,
+        "feedback": "Unable to evaluate this response due to a technical issue.",
+        "strengths": [],
+        "improvements": [
+          "Technical evaluation error occurred"
+        ]
+      },
+      {
+        "question_id": 1,
+        "score": 5.0,
+        "feedback": "Unable to evaluate this response due to a technical issue.",
+        "strengths": [],
+        "improvements": [
+          "Technical evaluation error occurred"
+        ]
+      },
+      {
+        "question_id": 2,
+        "score": 5.0,
+        "feedback": "Unable to evaluate this response due to a technical issue.",
+        "strengths": [],
+        "improvements": [
+          "Technical evaluation error occurred"
+        ]
+      },
+      {
+        "question_id": 3,
+        "score": 5.0,
+        "feedback": "Unable to evaluate this response due to a technical issue.",
+        "strengths": [],
+        "improvements": [
+          "Technical evaluation error occurred"
+        ]
+      },
+      {
+        "question_id": 4,
+        "score": 5.0,
+        "feedback": "Unable to evaluate this response due to a technical issue.",
+        "strengths": [],
+        "improvements": [
+          "Technical evaluation error occurred"
+        ]
+      },
+      {
+        "question_id": 5,
+        "score": 5.0,
+        "feedback": "Unable to evaluate this response due to a technical issue.",
+        "strengths": [],
+        "improvements": [
+          "Technical evaluation error occurred"
+        ]
+      }
+    ],
+    "analytics": {
+      "total_duration": "0 minutes 11 seconds",
+      "average_response_time": 1.8,
+      "speaking_pace": "Fast",
+      "technical_depth": "Low",
+      "communication_clarity": "Needs Improvement",
+      "consistency_score": 7.0
+    },
+    "recommendations": [
+      "Continue developing your data scientist skills through hands-on projects",
+      "Practice explaining technical concepts clearly and concisely",
+      "Review fundamental concepts relevant to your target role"
+    ]
+  },
+  "completed_at": 1754383152.4954462
+}

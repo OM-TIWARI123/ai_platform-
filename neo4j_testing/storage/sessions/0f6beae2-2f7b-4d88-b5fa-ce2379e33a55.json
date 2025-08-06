@@ -1,0 +1,29 @@
+{
+  "session_id": "0f6beae2-2f7b-4d88-b5fa-ce2379e33a55",
+  "role": "Product Manager",
+  "resume_path": "uploads\\0f6beae2-2f7b-4d88-b5fa-ce2379e33a55_Om Amex-1 (2).pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Describe how you prioritize features when building a product roadmap."
+    },
+    {
+      "id": 2,
+      "text": "Tell me about a time when you had to make a difficult product decision with limited data."
+    },
+    {
+      "id": 3,
+      "text": "How do you gather and incorporate user feedback into product development?"
+    },
+    {
+      "id": 4,
+      "text": "Describe your approach to working with cross-functional teams."
+    },
+    {
+      "id": 5,
+      "text": "How do you measure product success and define key performance indicators?"
+    }
+  ],
+  "vector_db_collection": "resume_1753541825",
+  "created_at": 1753541845.1052089
+}

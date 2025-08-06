@@ -1,0 +1,29 @@
+{
+  "session_id": "d87530e0-48ec-42a7-8797-37f8ac5aa35e",
+  "role": "Product Manager",
+  "resume_path": "uploads\\d87530e0-48ec-42a7-8797-37f8ac5aa35e_Om Resume.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights your experience building a reporting tool that increased efficiency by 94% in tracking website usage.  Can you describe the product management aspects of this project, including your involvement in defining the product vision, gathering user requirements, and prioritizing features?"
+    },
+    {
+      "id": 2,
+      "text": "You analyzed 52 pitches from Shark Tank India, identifying a 55% conversion rate for pitches involving women.  How did you use this data to inform product strategy or recommendations, and how would you apply a similar data-driven approach to product decisions in a different context?"
+    },
+    {
+      "id": 3,
+      "text": "Your Pizza Sales Metrics project involved analyzing 50,000 records and creating a Power BI dashboard with 25+ KPIs.  Describe a situation where you had to make a difficult prioritization decision regarding features or metrics in this project, and how you approached the trade-offs involved."
+    },
+    {
+      "id": 4,
+      "text": "You mention proficiency in various programming languages and tools, including ReactJS, NodeJS, and SQL.  How would your technical skills inform your approach to working with engineering teams and understanding technical feasibility in a product management role?"
+    },
+    {
+      "id": 5,
+      "text": "Your experience leading your basketball team to first place and mentoring students through the Desh-ke-Mentor program demonstrates leadership skills. Describe a situation where you had to motivate and manage a team to achieve a challenging product goal, highlighting your leadership style and conflict resolution strategies."
+    }
+  ],
+  "vector_db_collection": "resume_1753527100",
+  "created_at": 1753527110.4635484
+}

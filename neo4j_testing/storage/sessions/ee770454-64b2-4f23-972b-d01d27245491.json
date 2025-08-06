@@ -1,0 +1,29 @@
+{
+  "session_id": "ee770454-64b2-4f23-972b-d01d27245491",
+  "role": "Product Manager",
+  "resume_path": "uploads\\ee770454-64b2-4f23-972b-d01d27245491_Om Resume.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights your experience building a reporting tool that increased efficiency by 94% in tracking website usage.  Can you describe the process of identifying the need for this tool, defining its requirements, and managing its development, emphasizing your product management approach throughout?"
+    },
+    {
+      "id": 2,
+      "text": "You analyzed 52 pitches from women entrepreneurs for Shark Tank India, noting a 55% conversion rate.  How did this analysis inform your recommendations for investment decisions, and what product management principles did you apply to improve inclusivity in the investment portfolio?"
+    },
+    {
+      "id": 3,
+      "text": "In your Pizza Sales Metrics project, you used Power BI to visualize 25+ KPIs.  Describe a scenario where data visualization was crucial in communicating insights to stakeholders and influencing product strategy. What challenges did you face in presenting complex data in an easily understandable manner?"
+    },
+    {
+      "id": 4,
+      "text": "Your experience includes developing both front-end (ReactJS, NextJS) and back-end (NodeJS, Express, MongoDB) technologies.  How would this full-stack understanding inform your prioritization decisions as a product manager, and how would you leverage this knowledge to collaborate effectively with engineering teams?"
+    },
+    {
+      "id": 5,
+      "text": "You ranked in the top 3% of the JEE exam and led your basketball team to victory.  These achievements suggest strong leadership and competitive drive. Can you describe a situation where you had to make a difficult decision under pressure, balancing competing priorities and stakeholder interests as a leader?"
+    }
+  ],
+  "vector_db_collection": "resume_1753525734",
+  "created_at": 1753525743.608476
+}

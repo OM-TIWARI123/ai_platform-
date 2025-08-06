@@ -1,0 +1,29 @@
+{
+  "session_id": "e66b4124-b81e-4a5f-9822-86766fe727cb",
+  "role": "Product Manager",
+  "resume_path": "uploads\\e66b4124-b81e-4a5f-9822-86766fe727cb_Om-Tiwari_tech.pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Describe your experience building the AI-driven deck generation feature in Clash Deck Pro.  What challenges did you face in balancing user experience with the complexity of the AI recommendations?"
+    },
+    {
+      "id": 2,
+      "text": "Your resume highlights experience with secure payment processing.  How did you ensure data integrity and security in your Secure Payments Application, and how would you apply those principles to a different product with sensitive user data?"
+    },
+    {
+      "id": 3,
+      "text": "You organized a large-scale event (\"Kaun Banega ChemPati\") with over 1000 attendees. Describe your approach to planning and executing this event, focusing on aspects relevant to product management like stakeholder management, resource allocation, and risk mitigation."
+    },
+    {
+      "id": 4,
+      "text": "Your reporting tool project at DTU resulted in a 94% efficiency increase. Walk me through your process of identifying the problem, designing the solution, and measuring its impact.  What metrics did you use to assess the improvement?"
+    },
+    {
+      "id": 5,
+      "text": "You mention mentoring students.  How would you apply your mentoring skills to leading a product team, fostering collaboration, and motivating individuals with diverse skill sets?"
+    }
+  ],
+  "vector_db_collection": "resume_1753540721",
+  "created_at": 1753540736.8837707
+}

@@ -1,0 +1,135 @@
+{
+  "evaluation_id": "597e6c83-2b74-4db3-acf9-58fd8dc5eb76",
+  "session_id": "f0fc01ec-f628-4dda-b7ba-17ab3d6dd23d",
+  "role": "Product Manager",
+  "interview_data": [
+    {
+      "question_id": 0,
+      "question_text": "Introduction",
+      "answer_text": "This is a simulated transcription. Replace this with actual Whisper integration.",
+      "answer_duration": 2.112
+    },
+    {
+      "question_id": 1,
+      "question_text": "Your resume highlights automating 10+ processes with Python, resulting in a 74% reduction in data analysis time during your internship.  Can you describe a specific process you automated, the challenges you faced, and how your solution contributed to the overall product or business goals?",
+      "answer_text": "This is a simulated transcription. Replace this with actual Whisper integration.",
+      "answer_duration": 2.709
+    },
+    {
+      "question_id": 2,
+      "question_text": "You mention using Power BI to create a dashboard visualizing hourly sales for resource risk management in your Pizza Sales Metrics project.  How did you determine the key performance indicators (KPIs) to include, and how did this dashboard inform decision-making and resource allocation?",
+      "answer_text": "This is a simulated transcription. Replace this with actual Whisper integration.",
+      "answer_duration": 2.128
+    },
+    {
+      "question_id": 3,
+      "question_text": "In your Shark Tank India project, you analyzed risk-reward metrics for 52 pitches.  Describe your methodology for assessing risk and reward, and how you presented your findings to influence investment decisions.  How did your understanding of financial markets contribute to this analysis?",
+      "answer_text": "This is a simulated transcription. Replace this with actual Whisper integration.",
+      "answer_duration": 2.242
+    },
+    {
+      "question_id": 4,
+      "question_text": "Your BCG Strategy Consulting experience likely exposed you to various stakeholder management techniques.  Can you describe a situation where you had to navigate conflicting stakeholder priorities and how you successfully reached a consensus that aligned with product goals?",
+      "answer_text": "This is a simulated transcription. Replace this with actual Whisper integration.",
+      "answer_duration": 5.918
+    },
+    {
+      "question_id": 5,
+      "question_text": "You've demonstrated proficiency in several programming languages (C++, Python, JavaScript) and databases (SQL, MySQL).  If you were tasked with building a new product feature requiring data analysis and user interface development, which technologies would you choose and why, considering factors like scalability, maintainability, and development time?",
+      "answer_text": "This is a simulated transcription. Replace this with actual Whisper integration.",
+      "answer_duration": 1.635
+    }
+  ],
+  "submitted_at": 1753608131.15839,
+  "status": "completed",
+  "results": {
+    "overall_score": 2.7,
+    "overall_feedback": "While your enthusiasm was evident, the interview highlighted areas for growth in communication clarity and technical depth, which are crucial for this Product Manager role.  We appreciate your interest and suggest focusing on improving your communication skills and expanding your technical knowledge to better position yourself for future opportunities.  With focused development in these areas, you could significantly strengthen your candidacy.",
+    "question_analysis": [
+      {
+        "question_id": 0,
+        "score": 0.0,
+        "feedback": "The answer is completely inadequate and provides no relevant information.  It simply states that a transcription is simulated and references a future integration, offering no insight into the candidate's understanding of product management or the interview question.  This response demonstrates a lack of preparation and professionalism.",
+        "strengths": [],
+        "improvements": [
+          "Provide a thoughtful and relevant answer to the interview question.",
+          "Practice answering common product management interview questions beforehand.",
+          "Demonstrate understanding of the product management role and its responsibilities."
+        ]
+      },
+      {
+        "question_id": 1,
+        "score": 2.0,
+        "feedback": "The answer is completely inadequate as it only restates the prompt and doesn't provide any specific details about a process, challenges faced, or the contribution to product/business goals.  It fails to demonstrate the candidate's analytical and problem-solving skills, which are crucial for a Product Manager. The response is essentially empty.",
+        "strengths": [],
+        "improvements": [
+          "Provide a concrete example of a Python automation project. Detail the specific process, the challenges encountered (e.g., data inconsistencies, API limitations, scaling issues), and quantify the impact on efficiency and business goals (e.g., increased sales, improved customer satisfaction, cost savings).  Use the STAR method (Situation, Task, Action, Result) to structure the answer."
+        ]
+      },
+      {
+        "question_id": 2,
+        "score": 4.0,
+        "feedback": "The answer is incomplete and lacks specifics.  It mentions using Power BI and the purpose of the dashboard, but fails to detail the KPIs chosen, the reasoning behind those choices, or how the dashboard specifically informed decisions about resource allocation.  Without concrete examples, the impact of the dashboard remains unclear.",
+        "strengths": [
+          "Mention of Power BI",
+          "Acknowledgment of the project context (Pizza Sales Metrics)"
+        ],
+        "improvements": [
+          "Provide specific examples of KPIs used and justify their selection",
+          "Detail how the dashboard data led to concrete resource allocation changes (e.g., \"The dashboard showed consistently low sales between 2-4 AM, leading us to reduce staffing during those hours\")",
+          "Quantify the impact of the changes made based on the dashboard (e.g., \"This resulted in a 15% reduction in labor costs without impacting customer satisfaction\")."
+        ]
+      },
+      {
+        "question_id": 3,
+        "score": 4.0,
+        "feedback": "The answer is completely lacking in substance.  It fails to describe any specific methodology for risk-reward assessment, the presentation of findings, or the application of financial market knowledge.  The response essentially admits that it cannot provide a meaningful answer.",
+        "strengths": [],
+        "improvements": [
+          "Provide a concrete methodology (e.g., discounted cash flow analysis, comparable company analysis, sensitivity analysis), explain how the data was presented (e.g., using a dashboard, spreadsheet, or presentation), and describe the role of market knowledge in informing the valuation and risk assessment (e.g., industry benchmarks, interest rate sensitivity)."
+        ]
+      },
+      {
+        "question_id": 4,
+        "score": 4.0,
+        "feedback": "The answer is completely inadequate as it only states the question and doesn't provide any substance.  A good answer would describe a specific situation, the conflicting priorities, the steps taken to reach consensus, and the outcome.  Without concrete details, the candidate's ability to manage stakeholders effectively cannot be assessed.",
+        "strengths": [],
+        "improvements": [
+          "Provide a specific example from BCG experience",
+          "Detail the conflicting stakeholder priorities and their motivations",
+          "Explain the process used to achieve consensus and the resulting product outcome"
+        ]
+      },
+      {
+        "question_id": 5,
+        "score": 4.0,
+        "feedback": "The answer is incomplete and lacks specifics. While mentioning proficiency in various languages and databases is good, the candidate fails to articulate a concrete technology stack for the new feature, justifying their choices based on scalability, maintainability, and development time.  The response needs to demonstrate a practical understanding of how different technologies interact and address the specific requirements of the question.",
+        "strengths": [
+          "Acknowledges relevant skills",
+          "Demonstrates awareness of important considerations (scalability, maintainability, development time)"
+        ],
+        "improvements": [
+          "Provides a concrete technology stack with justifications",
+          "Explains the rationale behind technology choices in relation to the problem",
+          "Demonstrates understanding of trade-offs between different technologies"
+        ]
+      }
+    ],
+    "analytics": {
+      "total_duration": "0 minutes 16 seconds",
+      "average_response_time": 2.8,
+      "speaking_pace": "Fast",
+      "technical_depth": "Low",
+      "communication_clarity": "Needs Improvement",
+      "consistency_score": 0
+    },
+    "recommendations": [
+      "* To improve communication clarity, record yourself practicing answering common product management interview questions (like those focusing on prioritization or A/B testing) and then analyze the recording, focusing on pacing and conciseness.  Identify areas where you can simplify your language and structure your responses more logically.",
+      "* To build your technical depth, choose one area relevant to the types of products you want to manage (e.g., databases, cloud computing, specific programming languages) and dedicate 30 minutes daily to learning fundamental concepts via online courses or tutorials.",
+      "* To demonstrate a stronger understanding of the product management role, research successful product launches and analyze their strategies, documenting your observations and insights in a structured format (e.g., a spreadsheet).  Focus on the decisions made and their impact.",
+      "* Before each interview, practice answering common questions out loud, focusing on pausing strategically to improve your speaking pace and ensure clear articulation.  Ask a friend or mentor for feedback on your clarity and flow.",
+      "*  Create a portfolio showcasing your product-related experience, even if it’s from personal projects or volunteer work.  Highlight your problem-solving skills, user empathy, and strategic thinking in each project description."
+    ]
+  },
+  "completed_at": 1753608147.8962917
+}

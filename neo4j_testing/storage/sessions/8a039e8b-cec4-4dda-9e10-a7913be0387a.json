@@ -1,0 +1,29 @@
+{
+  "session_id": "8a039e8b-cec4-4dda-9e10-a7913be0387a",
+  "role": "Product Manager",
+  "resume_path": "uploads\\8a039e8b-cec4-4dda-9e10-a7913be0387a_Om Amex-1 (2).pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights automating 10+ processes with Python, resulting in a 74% reduction in data analysis time during your internship at DTU-USIP.  Can you describe a specific process you automated, the challenges you faced, and how your solution addressed those challenges from a product management perspective?  How would you approach similar automation in a product development context?"
+    },
+    {
+      "id": 2,
+      "text": "You used Power BI and SQL to analyze 50,000 pizza sales records, identifying key revenue drivers and operational risks.  As a product manager, how would you translate these findings into actionable product improvements or new features to boost sales and mitigate risk?"
+    },
+    {
+      "id": 3,
+      "text": "Your experience with the Shark Tank India project involved computing risk-reward metrics for 52 pitches, significantly streamlining the investment decision-making process.  Describe how you would apply your understanding of risk analysis and financial markets principles to prioritize features and allocate resources in a product roadmap."
+    },
+    {
+      "id": 4,
+      "text": "You mention developing a reporting tool with 94% efficiency, enhancing risk monitoring for administrative stakeholders.  Could you walk me through the design process of this tool, focusing on how you gathered requirements from stakeholders and prioritized features based on their needs and business impact?"
+    },
+    {
+      "id": 5,
+      "text": "Your BCG Strategy Consulting experience and your various projects demonstrate a strong understanding of business strategy.  Imagine you're managing a product facing declining user engagement. How would you leverage your analytical and stakeholder communication skills to diagnose the problem, develop a solution, and get buy-in from your team and stakeholders?"
+    }
+  ],
+  "vector_db_collection": "resume_1754389098",
+  "created_at": 1754389114.2841501
+}
