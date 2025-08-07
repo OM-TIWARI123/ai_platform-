@@ -14,6 +14,7 @@ export const onAuthenticateUser = async () => {
         }
     })
     if (existingUser) {
+        console.log(existingUser)
         return { status: 201, user: existingUser }
     }
 

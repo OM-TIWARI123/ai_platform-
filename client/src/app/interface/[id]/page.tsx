@@ -3,9 +3,10 @@
 import { useState } from 'react';
 import { useRouter } from 'next/navigation';
 import { UserButton } from '@clerk/nextjs';
-import { createResume } from '../actions/resume';
+import { createResume } from '../../actions/resume';
 
-export default function Home() {
+export default function Home({params}) {4
+  const id=params.id;
   const [selectedRole, setSelectedRole] = useState<string>('');
   const [resumeFile, setResumeFile] = useState<File | null>(null);
   const [isLoading, setIsLoading] = useState(false);

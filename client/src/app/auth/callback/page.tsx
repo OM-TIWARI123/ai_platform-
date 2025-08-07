@@ -10,8 +10,9 @@ const AuthCallbackPage=async ()=>{
     
 
     if(auth.status===200 || auth.status===201){
+        console.log(auth.user?.id)
      // Check if user has workspaces before redirecting
-     return redirect(`/interface`)
+     return redirect(`/interface/${auth.user?.id}`)
             // If no workspaces, redirect to create workspace
            
     }
