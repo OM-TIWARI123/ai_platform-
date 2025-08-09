@@ -1,0 +1,29 @@
+{
+  "session_id": "1603ebdc-46fa-471a-be30-442417f242ad",
+  "role": "Product Manager",
+  "resume_path": "uploads\\1603ebdc-46fa-471a-be30-442417f242ad_Om Amex-1 (1).pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights automating 10+ processes with Python, resulting in a 74% reduction in data analysis time during your internship at DTU-USIP.  Can you describe a specific process you automated and how your understanding of product management principles, such as user needs and prioritization, influenced your approach?"
+    },
+    {
+      "id": 2,
+      "text": "You mention using Power BI to create a dashboard visualizing hourly sales for resource risk management in your Pizza Sales Metrics project.  How would you apply this data visualization experience to inform product strategy and decision-making as a Product Manager?"
+    },
+    {
+      "id": 3,
+      "text": "In your Shark Tank India project, you analyzed risk-reward metrics for 52 pitches.  Imagine you're a Product Manager for a similar investment platform.  How would you use data analysis to identify and prioritize features that would improve user experience and the platform's overall value proposition?"
+    },
+    {
+      "id": 4,
+      "text": "Your BCG Strategy Consulting experience provides a strong foundation.  Describe a situation where you had to balance conflicting stakeholder priorities and how you leveraged your communication skills to reach a consensus.  How would this experience translate to managing stakeholder expectations as a Product Manager?"
+    },
+    {
+      "id": 5,
+      "text": "You've demonstrated proficiency in various programming languages (C++, Python, JavaScript) and databases (SQL, MySQL).  If you were tasked with building a new product feature requiring integration with a complex database system, how would you approach the technical aspects, considering both development efficiency and product scalability?"
+    }
+  ],
+  "vector_db_collection": "resume_1754656506",
+  "created_at": 1754656515.4296982
+}

@@ -1,0 +1,29 @@
+{
+  "session_id": "779fd7b9-db74-4605-825d-846ea09bafb4",
+  "role": "Product Manager",
+  "resume_path": "uploads\\779fd7b9-db74-4605-825d-846ea09bafb4_Om Amex-1 (1).pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights automating 10+ processes with Python, resulting in a 74% reduction in data analysis time during your internship at DTU-USIP. Can you describe a specific process you automated, the challenges you faced, and how your solution improved efficiency and mitigated operational risks?  How does this experience translate to prioritizing features and managing development timelines as a Product Manager?"
+    },
+    {
+      "id": 2,
+      "text": "You've demonstrated experience using Power BI to visualize data, such as creating a dashboard with 25+ KPIs for your Pizza Sales Metrics project.  Describe your approach to designing this dashboard, focusing on how you selected relevant KPIs and ensured the information was easily understandable for different stakeholders (e.g., management, operational staff). How would you apply this skill to communicating product performance and roadmap updates to various stakeholders as a Product Manager?"
+    },
+    {
+      "id": 3,
+      "text": "In your Shark Tank India project, you analyzed 52 pitches and computed risk-reward metrics, identifying a 55% conversion rate for women-led pitches.  How did you define and measure 'risk' and 'reward' in this context?  How would you apply this analytical approach to assessing the risk and potential return of new product features or market opportunities as a Product Manager?"
+    },
+    {
+      "id": 4,
+      "text": "Your resume mentions your experience with BCG Strategy Consulting.  Can you share a specific example from that experience where you presented actionable insights to leadership and engaged new leads, strengthening business strategy?  How did you balance different stakeholder perspectives and priorities in that situation, and how would you apply this skill in managing product development and stakeholder expectations?"
+    },
+    {
+      "id": 5,
+      "text": "You possess a strong technical background with skills in C++, Python, JavaScript, and SQL. How would you leverage your technical expertise to effectively communicate with engineering teams and ensure that product requirements are clearly understood and implemented?  Give a specific example from your experience where your technical understanding was crucial in solving a problem or making a strategic decision."
+    }
+  ],
+  "vector_db_collection": "resume_1754656359",
+  "created_at": 1754656392.894903
+}

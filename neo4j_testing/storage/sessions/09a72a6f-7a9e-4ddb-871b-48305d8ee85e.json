@@ -1,0 +1,29 @@
+{
+  "session_id": "09a72a6f-7a9e-4ddb-871b-48305d8ee85e",
+  "role": "Product Manager",
+  "resume_path": "uploads\\09a72a6f-7a9e-4ddb-871b-48305d8ee85e_Om Amex-1 (1).pdf",
+  "questions": [
+    {
+      "id": 1,
+      "text": "Your resume highlights automating 10+ processes with Python, resulting in a 74% reduction in data analysis time at DTU-USIP.  Can you describe a specific process you automated, the challenges you faced, and how your solution improved the overall product or service?"
+    },
+    {
+      "id": 2,
+      "text": "You developed a Power BI dashboard visualizing hourly sales for resource risk management in your Pizza Sales Metrics project.  How did you identify the key performance indicators (KPIs) to include, and how did this dashboard contribute to better decision-making regarding resource allocation?"
+    },
+    {
+      "id": 3,
+      "text": "In your Shark Tank India project, you analyzed risk-reward metrics for 52 pitches.  Describe your methodology for assessing risk and reward, and how you presented your findings to influence investment decisions. How does this experience relate to prioritizing features in a product roadmap?"
+    },
+    {
+      "id": 4,
+      "text": "Your experience includes both BCG Strategy Consulting and working with large datasets (100GB data warehouse).  How would you leverage your strategic thinking and data analysis skills to define and prioritize features for a new product, considering market research and stakeholder feedback?"
+    },
+    {
+      "id": 5,
+      "text": "Your resume showcases proficiency in multiple programming languages (C++, Python, JavaScript) and databases (SQL, MySQL).  How would you utilize these technical skills to collaborate with engineering teams and ensure the successful development and launch of a new product?"
+    }
+  ],
+  "vector_db_collection": "resume_1754656418",
+  "created_at": 1754656428.956022
+}

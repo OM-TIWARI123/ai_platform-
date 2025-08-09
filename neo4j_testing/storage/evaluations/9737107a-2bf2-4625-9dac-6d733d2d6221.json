@@ -1,0 +1,124 @@
+{
+  "evaluation_id": "9737107a-2bf2-4625-9dac-6d733d2d6221",
+  "session_id": "1603ebdc-46fa-471a-be30-442417f242ad",
+  "role": "Product Manager",
+  "interview_data": [
+    {
+      "question_id": 0,
+      "question_text": "Introduction",
+      "answer_text": "hi my name is Om Tiwari I work as a product manager did you college in India and looking forward and product hi can you just give me the duration fuck you",
+      "answer_duration": 24.412
+    },
+    {
+      "question_id": 1,
+      "question_text": "Your resume highlights automating 10+ processes with Python, resulting in a 74% reduction in data analysis time during your internship at DTU-USIP.  Can you describe a specific process you automated and how your understanding of product management principles, such as user needs and prioritization, influenced your approach?",
+      "answer_text": "no I can't describe much about it I don't know much about it and want to listen to this app that's why I am doing interview okay let's go on to next version",
+      "answer_duration": 14.212
+    },
+    {
+      "question_id": 2,
+      "question_text": "You mention using Power BI to create a dashboard visualizing hourly sales for resource risk management in your Pizza Sales Metrics project.  How would you apply this data visualization experience to inform product strategy and decision-making as a Product Manager?",
+      "answer_text": "I want do that place stop it",
+      "answer_duration": 6.816
+    },
+    {
+      "question_id": 3,
+      "question_text": "In your Shark Tank India project, you analyzed risk-reward metrics for 52 pitches.  Imagine you're a Product Manager for a similar investment platform.  How would you use data analysis to identify and prioritize features that would improve user experience and the platform's overall value proposition?",
+      "answer_text": "I don't know that Anil pics for this thank you",
+      "answer_duration": 8.016
+    },
+    {
+      "question_id": 4,
+      "question_text": "Your BCG Strategy Consulting experience provides a strong foundation.  Describe a situation where you had to balance conflicting stakeholder priorities and how you leveraged your communication skills to reach a consensus.  How would this experience translate to managing stakeholder expectations as a Product Manager?",
+      "answer_text": "now I don't know what the are you asking thank you",
+      "answer_duration": 6.005
+    },
+    {
+      "question_id": 5,
+      "question_text": "You've demonstrated proficiency in various programming languages (C++, Python, JavaScript) and databases (SQL, MySQL).  If you were tasked with building a new product feature requiring integration with a complex database system, how would you approach the technical aspects, considering both development efficiency and product scalability?",
+      "answer_text": "I don't like to do that thank you",
+      "answer_duration": 8.003
+    }
+  ],
+  "submitted_at": 1754656994.8215027,
+  "status": "completed",
+  "results": {
+    "overall_score": 0.3,
+    "overall_feedback": "While your enthusiasm was evident, the interview revealed areas needing significant improvement in technical depth and communication clarity.  To be successful in this Product Manager role, focused development in these areas, particularly enhancing your speaking pace and precision, is crucial.  With dedicated effort and further learning, you can certainly develop the necessary skills for this type of position.",
+    "question_analysis": [
+      {
+        "question_id": 0,
+        "score": 1.0,
+        "feedback": "This answer is completely unprofessional and inappropriate.  The inclusion of offensive language renders the response unacceptable for a professional interview setting.  The candidate demonstrates a significant lack of understanding of interview etiquette and basic communication skills.",
+        "strengths": [],
+        "improvements": [
+          "Completely rewrite the introduction to be professional and concise.  Practice appropriate interview etiquette and avoid any inappropriate language.  Consider practicing a structured introduction that includes a brief summary of experience relevant to the role."
+        ]
+      },
+      {
+        "question_id": 1,
+        "score": 1.0,
+        "feedback": "This answer is completely unsatisfactory.  The candidate's admission of lacking knowledge about a significant accomplishment listed on their resume is highly concerning and demonstrates a lack of preparedness and professionalism.  This response severely undermines their credibility and showcases a poor understanding of the interview process.",
+        "strengths": [],
+        "improvements": [
+          "Prepare thoroughly for the interview, including reviewing past projects and accomplishments.  Practice articulating complex technical topics in a clear and concise manner.  Demonstrate genuine interest in the position and company, rather than focusing on extraneous matters."
+        ]
+      },
+      {
+        "question_id": 2,
+        "score": 1.0,
+        "feedback": "The answer is completely inadequate and demonstrates a lack of understanding of how data visualization informs product strategy.  It provides no insight into how the hourly sales data would be used to make product decisions or inform the roadmap. The response is essentially gibberish.",
+        "strengths": [],
+        "improvements": [
+          "Completely rework the answer to demonstrate a clear understanding of how data analysis can inform product strategy.  Provide specific examples of how the hourly sales data could be used to identify trends, inform resource allocation, or prioritize features.  Practice articulating your thought process clearly and concisely."
+        ]
+      },
+      {
+        "question_id": 3,
+        "score": 1.0,
+        "feedback": "The answer is completely unresponsive and nonsensical.  It provides no relevant information about using data analysis to improve a product, and appears to be a random, possibly garbled, response.  This demonstrates a significant lack of understanding of the question and the required skills.",
+        "strengths": [],
+        "improvements": [
+          "Understanding the core concepts of data analysis and its application in product management",
+          "Practicing structured problem-solving and providing relevant and coherent answers",
+          "Demonstrating knowledge of user experience (UX) metrics and their relationship to feature prioritization"
+        ]
+      },
+      {
+        "question_id": 4,
+        "score": 1.0,
+        "feedback": "This answer is completely inadequate.  It demonstrates a lack of preparedness and fails to address the question in any meaningful way.  The candidate shows no understanding of the interview process or the requirements of the role.",
+        "strengths": [],
+        "improvements": [
+          "Prepare thoughtful answers to common interview questions beforehand",
+          "Practice articulating relevant experiences using the STAR method (Situation, Task, Action, Result)",
+          "Demonstrate a clear understanding of the Product Manager role and its stakeholder management aspects"
+        ]
+      },
+      {
+        "question_id": 5,
+        "score": 0.0,
+        "feedback": "This answer is completely unacceptable for a Product Manager interview.  It demonstrates a lack of professionalism, unwillingness to engage with the question, and a significant gap in understanding the role's requirements.  A Product Manager needs to be able to discuss technical aspects, even if not a coder themselves.",
+        "strengths": [],
+        "improvements": [
+          "Everything.  The candidate needs to learn how to answer technical questions professionally and demonstrate an understanding of the technical considerations in product development. They should practice structuring answers that show their thought process and problem-solving skills.  They also need to work on their interview skills and ability to handle unexpected or challenging questions."
+        ]
+      }
+    ],
+    "analytics": {
+      "total_duration": "1 minutes 7 seconds",
+      "average_response_time": 11.2,
+      "speaking_pace": "Slow",
+      "technical_depth": "Low",
+      "communication_clarity": "Needs Improvement",
+      "consistency_score": 1.0
+    },
+    "recommendations": [
+      "Craft a concise, impactful 30-second introduction highlighting 2-3 relevant achievements from your resume, focusing on results and quantifiable impact. Practice this introduction 5 times before your next interview, recording yourself to check pacing and clarity.",
+      "Choose 2-3 past projects showcasing your product management skills (e.g., problem definition, solution design, data-driven decision making). For each, create a concise, one-page summary outlining the challenge, your approach, the results, and the key learnings.  Practice explaining these projects clearly and concisely, focusing on the impact of your contributions.",
+      "To improve your data analysis skills, dedicate 1 hour weekly to studying relevant case studies (e.g., analyzing A/B testing results, interpreting user engagement metrics).  Practice applying these analytical skills to a hypothetical scenario using the hourly sales data example from the interview, outlining how different trends could inform product decisions.  Create a short presentation illustrating your analysis and conclusions.",
+      "To improve your speaking pace and communication clarity, record yourself practicing answers to common product management interview questions.  Analyze the recordings, identifying areas where you can be more concise and articulate.  Practice speaking slowly and deliberately, focusing on clear pronunciation and pausing for emphasis."
+    ]
+  },
+  "completed_at": 1754657008.2142003
+}

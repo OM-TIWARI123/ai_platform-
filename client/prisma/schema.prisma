@@ -26,7 +26,7 @@ model User {
 model Resume {
   id         String   @id @default(cuid())
   userId     String
-  fileUrl    String   // Path or URL to the resume file
+  file       Bytes  // Path or URL to the resume file
   uploadedAt DateTime @default(now())
   user       User     @relation(fields: [userId], references: [id])
 }

@@ -5,8 +5,8 @@ import { useRouter } from 'next/navigation';
 import { UserButton } from '@clerk/nextjs';
 import { createResume } from '../../actions/resume';
 
-export default function Home({params}) {4
-  const id=params.id;
+export default  function Home({ params }: { params: { id: string } }) {
+  const userId = params.id; // Get user ID from URL params
   const [selectedRole, setSelectedRole] = useState<string>('');
   const [resumeFile, setResumeFile] = useState<File | null>(null);
   const [isLoading, setIsLoading] = useState(false);
@@ -24,7 +24,7 @@ export default function Home({params}) {4
   };
 
   const handleStartInterview = async () => {
-    if (!selectedRole || !resumeFile) {
+    if (!selectedRole || !resumeFile || !userId) {
       alert('Please select a role and upload your resume');
       return;
     }
@@ -32,13 +32,8 @@ export default function Home({params}) {4
     setIsLoading(true);
 
     try {
-      // Store resume in database using server action
-      const resumeResult = await createResume(`/uploads/${resumeFile.name}`);
-      
-      if (resumeResult.status !== 200) {
-        console.error('Failed to store resume in database:', resumeResult.error);
-      }
 
+      // For the interview API, you might still want to send the file
       const formData = new FormData();
       formData.append('resume', resumeFile);
 
@@ -54,7 +49,9 @@ export default function Home({params}) {4
       const data = await response.json();
       
       // Store interview data in sessionStorage for the interview page
-      sessionStorage.setItem('interviewData', JSON.stringify(data));
+      sessionStorage.setItem('interviewData', JSON.stringify({
+        ...data,// Include the resume ID from database
+      }));
       
       // Navigate to interview page
       router.push('/interview');
@@ -142,6 +139,7 @@ export default function Home({params}) {4
         {resumeFile && (
           <div>
             <p>Selected file: {resumeFile.name}</p>
+            <p>Size: {(resumeFile.size / 1024).toFixed(2)} KB</p>
           </div>
         )}
       </div>
@@ -149,13 +147,13 @@ export default function Home({params}) {4
       <div style={{ marginTop: '20px' }}>
         <button
           onClick={handleStartInterview}
-          disabled={!selectedRole || !resumeFile || isLoading}
+          disabled={!selectedRole || !resumeFile || isLoading || !userId}
           style={{
-            backgroundColor: (!selectedRole || !resumeFile || isLoading) ? '#ccc' : '#28a745',
+            backgroundColor: (!selectedRole || !resumeFile || isLoading || !userId) ? '#ccc' : '#28a745',
             color: 'white',
             padding: '15px 30px',
             border: 'none',
-            cursor: (!selectedRole || !resumeFile || isLoading) ? 'not-allowed' : 'pointer',
+            cursor: (!selectedRole || !resumeFile || isLoading || !userId) ? 'not-allowed' : 'pointer',
             fontSize: '16px'
           }}
         >

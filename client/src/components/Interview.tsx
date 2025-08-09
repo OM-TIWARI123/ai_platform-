@@ -15,11 +15,15 @@ interface QuestionData {
   text: string;
 }
 
+interface TransitionObject {
+  text: string;
+}
+
 interface InitializeResponse {
   session_id: string;
   intro_message: string;
   questions: QuestionData[];
-  transitions: string[];
+  transitions: (string | TransitionObject)[];
 }
 
 interface InterviewProps {
@@ -203,16 +207,16 @@ export default function Interview({ interviewData, onComplete, onBack }: Intervi
       }
     };
 
-    // Add event listeners if SpeechRecognition is available
+    // Add event handlers if SpeechRecognition is available
     if (typeof window !== 'undefined' && 'webkitSpeechRecognition' in window) {
-      const recognition = (window as any).webkitSpeechRecognition;
+      const recognition = new (window as any).webkitSpeechRecognition();
       if (recognition) {
-        recognition.addEventListener('end', handleSpeechEnd);
-        recognition.addEventListener('error', handleSpeechError);
+        recognition.onend = handleSpeechEnd;
+        recognition.onerror = handleSpeechError;
         
         return () => {
-          recognition.removeEventListener('end', handleSpeechEnd);
-          recognition.removeEventListener('error', handleSpeechError);
+          recognition.onend = null;
+          recognition.onerror = null;
         };
       }
     }
