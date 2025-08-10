@@ -1,5 +1,4 @@
-// src/app/api/types/interview.ts
-
+// src/lib/models/response-models.ts
 export interface QuestionData {
   id: number;
   text: string;
@@ -14,23 +13,6 @@ export interface InitializeResponse {
   intro_message: string;
   questions: QuestionData[];
   transitions: TransitionData[];
-}
-
-export interface QuestionAnswer {
-  question_id: number;
-  question_text: string;
-  answer_text: string;
-  answer_duration: number; // in seconds
-}
-
-export interface SubmitInterviewRequest {
-  session_id: string;
-  interview_data: QuestionAnswer[];
-}
-
-export interface SubmitInterviewResponse {
-  evaluation_id: string;
-  message: string;
 }
 
 export interface QuestionAnalysis {
@@ -50,10 +32,16 @@ export interface Analytics {
   consistency_score?: number;
 }
 
-export interface ResultsResponse {
+export interface SubmitInterviewResponse {
+  session_id: string;
   overall_score: number;
   overall_feedback: string;
   question_analysis: QuestionAnalysis[];
   analytics: Analytics;
   recommendations: string[];
+}
+
+export interface ErrorResponse {
+  error: string;
+  detail?: string;
 }

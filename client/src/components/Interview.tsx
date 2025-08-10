@@ -138,16 +138,54 @@ export default function Interview({ interviewData, onComplete, onBack }: Intervi
   const recognitionTimeoutRef = useRef<NodeJS.Timeout | null>(null);
 
   // Check browser support
+
+
   if (!browserSupportsSpeechRecognition) {
     return <div>Browser doesn't support speech recognition.</div>;
   }
 
-  // Start the interview by playing intro
-  useEffect(() => {
-    if (!hasIntroPlayed && currentStep === 'intro-playing' && !isPlaying) {
-      playIntro();
+  const playIntro = async () => {
+    if (hasIntroPlayed || isPlaying) {
+      console.log('Intro already played or currently playing, skipping');
+      return;
     }
-  }, [hasIntroPlayed, currentStep, isPlaying]);
+    
+    try {
+      console.log('Playing intro message...');
+      await speak(interviewData.intro_message);
+      setHasIntroPlayed(true);
+      setCurrentStep('intro-recording');
+      console.log('Intro completed, ready for recording');
+    } catch (error) {
+      console.error('Error playing intro:', error);
+    }
+  };
+
+  const handleStartRecording = () => {
+    console.log('Starting recording...');
+    resetTranscript();
+    setRecordingDuration(0);
+    setRecordingStartTime(Date.now());
+    setIsRecording(true);
+    shouldRestartRecognition.current = true;
+    
+    try {
+      SpeechRecognition.startListening({ 
+        continuous: true, 
+        language: 'en-US',
+        interimResults: true 
+      });
+      console.log('Speech recognition started');
+    } catch (error) {
+      console.error('Error starting speech recognition:', error);
+    }
+  };
+
+useEffect(() => {
+  if (!hasIntroPlayed && currentStep === 'intro-playing' && !isPlaying) {
+    playIntro();
+  }
+}, [hasIntroPlayed, currentStep, isPlaying]);
 
   // Handle recording duration
   useEffect(() => {
@@ -222,42 +260,7 @@ export default function Interview({ interviewData, onComplete, onBack }: Intervi
     }
   }, [isRecording]);
 
-  const playIntro = async () => {
-    if (hasIntroPlayed || isPlaying) {
-      console.log('Intro already played or currently playing, skipping');
-      return;
-    }
-    
-    try {
-      console.log('Playing intro message...');
-      await speak(interviewData.intro_message);
-      setHasIntroPlayed(true);
-      setCurrentStep('intro-recording');
-      console.log('Intro completed, ready for recording');
-    } catch (error) {
-      console.error('Error playing intro:', error);
-    }
-  };
 
-  const handleStartRecording = () => {
-    console.log('Starting recording...');
-    resetTranscript();
-    setRecordingDuration(0);
-    setRecordingStartTime(Date.now());
-    setIsRecording(true);
-    shouldRestartRecognition.current = true;
-    
-    try {
-      SpeechRecognition.startListening({ 
-        continuous: true, 
-        language: 'en-US',
-        interimResults: true 
-      });
-      console.log('Speech recognition started');
-    } catch (error) {
-      console.error('Error starting speech recognition:', error);
-    }
-  };
 
   const handleStopRecording = () => {
     console.log('Stopping recording...');

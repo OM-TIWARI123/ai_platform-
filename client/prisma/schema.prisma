@@ -33,8 +33,7 @@ model Resume {
 
 model Evaluation {
   id            String   @id @default(cuid())
-  evaluation_id String   @unique
-  session_id    String
+  session_id String   @unique
   role          String
   interview_data Json
   submitted_at  Float
